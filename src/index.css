@@ -1,0 +1,48 @@
+:root {
+  --navy-950: #0b1c2f;
+  --navy-900: #10263f;
+  --navy-800: #163252;
+  --ink: #1c2733;
+  --gray-600: #5b6472;
+  --gray-300: #d7dbe1;
+  --gray-100: #eef0f3;
+  --paper: #f6f7f9;
+  --white: #ffffff;
+  --orange: #ff7a1a;
+  --orange-dark: #e0650a;
+
+  color-scheme: light;
+  color: var(--ink);
+  background: var(--paper);
+  font: 16px/1.6 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  color: var(--navy-950);
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  color: inherit;
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+}
