@@ -1095,5 +1095,53 @@
       }
     ],
     "totalItems": 140
+  },
+  {
+    "runAt": "2026-07-18T01:28:44.791Z",
+    "sources": [
+      {
+        "name": "국토교통부 보도자료",
+        "status": "ok",
+        "count": 10,
+        "tookMs": 2614
+      },
+      {
+        "name": "국토교통부 공지사항",
+        "status": "ok",
+        "count": 10,
+        "tookMs": 2381
+      },
+      {
+        "name": "대한건설협회 공지사항",
+        "status": "ok",
+        "count": 10,
+        "tookMs": 6706
+      },
+      {
+        "name": "대한건설협회 보도자료",
+        "status": "ok",
+        "count": 10,
+        "tookMs": 2819
+      },
+      {
+        "name": "대한건축사협회 공지사항",
+        "status": "ok",
+        "count": 11,
+        "tookMs": 1333
+      },
+      {
+        "name": "CSI 공지사항",
+        "status": "ok",
+        "count": 10,
+        "tookMs": 1651
+      },
+      {
+        "name": "CSI 자료실",
+        "status": "ok",
+        "count": 10,
+        "tookMs": 1027
+      }
+    ],
+    "totalItems": 140
   }
 ]
