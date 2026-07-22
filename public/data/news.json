@@ -1,5 +1,104 @@
 [
   {
+    "source": "CSI",
+    "category": "안전",
+    "title": "시스템 작업 안내(2026-07-23 18:00 ~ 02:00)",
+    "date": "2026-07-23",
+    "url": "https://www.csi.go.kr/community/noticeOnlyView.do?bbs_id=noti&bbt_no=148476",
+    "tags": [
+      "안전",
+      "건설"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[참고] 물류시설 화재예방 및 대응체계를 면밀히 검토하여 개선해 나가겠습니다.",
+    "date": "2026-07-22",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092251&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[장관동정] 김윤덕 장관, 새만금과 호남권 투자기업과 소통 확대",
+    "date": "2026-07-22",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092250&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[설명] 공공기관 기능개혁에 대해서는 결정된 바 없습니다.",
+    "date": "2026-07-22",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092248&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "안전",
+    "title": "올여름 안전한 휴가길 최우선… 극한호우·기상이변 철저 대응",
+    "date": "2026-07-22",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092246&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "유휴자산 활용해 주민 삶의 질 높인다, “2026 지역수요맞춤지원 사업 15곳 최종 선정”",
+    "date": "2026-07-22",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092245&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "여수1호 석유화학 사업재편 본격화, 건설공사 체불 방지 위해 대금지급시스템 개편",
+    "date": "2026-07-22",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092247&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "법령·고시",
+    "title": "서울 증산4 도심 공공주택 복합지구의 지정 변경(2차) 고시",
+    "date": "2026-07-22",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=268931&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "장항선 복선전철화 2단계(홍성∼대야) 사업 실시계획 변경 승인",
+    "date": "2026-07-22",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=268910&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
     "source": "대한건축사협회",
     "category": "AI·디지털",
     "title": "[공지사항] 제1차『D5 Render AI 활용 및 영상 제작(중급)』 교육대상자 공고",
@@ -151,6 +250,17 @@
     "tags": [
       "건설",
       "협회"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "지역 건축현안, 중앙·지방이 함께 푼다",
+    "date": "2026-07-21",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092243&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
     ]
   },
   {
@@ -804,17 +914,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[장관동정] 김윤덕 장관, “좋은 집 더 빠르게 공급하도록 모듈러 기술 키울 것”",
-    "date": "2026-07-10",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092211&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "공공기관",
     "title": "[덕둔~계류 도로확포장공사] 타당성평가 보고서 검토 결과",
     "date": "2026-07-10",
@@ -881,50 +980,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "한성숙 국무총리, 고양창릉 현장 방문 3기 신도시 속도 제고 점검",
-    "date": "2026-07-09",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092210&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[참고] 호남 반도체 첨단국가산단 사업 예정지 일원 토지거래허가구역 신규 지정",
-    "date": "2026-07-09",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092209&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "국민을 위한 휴게소로 거듭난다",
-    "date": "2026-07-09",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092204&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "김용석 대광위원장,인천 2호선 고양연장 예타현황 점검",
-    "date": "2026-07-09",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092207&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "안전",
     "title": "대한민국 항공안전, 세계 기준으로 더 높인다",
     "date": "2026-07-09",
@@ -932,28 +987,6 @@
     "tags": [
       "건설",
       "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "캠핑장 분양·회원권 투자 광고, 명백한 불법입니다",
-    "date": "2026-07-09",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092206&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "토지거래허가구역 지정 공고",
-    "date": "2026-07-09",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=268852&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
     ]
   },
   {
