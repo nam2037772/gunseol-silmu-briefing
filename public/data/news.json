@@ -44,6 +44,17 @@
     ]
   },
   {
+    "source": "대한건설협회",
+    "category": "최신공지",
+    "title": "국립도시건축박물관 2026년 제3차 자료 공개구입 공고 알림",
+    "date": "2026-07-27",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=159521",
+    "tags": [
+      "건설",
+      "협회"
+    ]
+  },
+  {
     "source": "국토교통부",
     "category": "법령·고시",
     "title": "원주무실 공공지원민간임대주택 공급촉진지구 지정 변경(4차) 및 지구계획 변경(4차) 승인, 지형도면 등의 고시",
@@ -1608,6 +1619,17 @@
   {
     "source": "CSI",
     "category": "안전",
+    "title": "아차사고 신규 신고유형 안내",
+    "date": "2026-06-04",
+    "url": "https://www.csi.go.kr/community/noticeOnlyView.do?bbs_id=noti&bbt_no=147963",
+    "tags": [
+      "안전",
+      "건설"
+    ]
+  },
+  {
+    "source": "CSI",
+    "category": "안전",
     "title": "2025년 건설사고분석 보고서",
     "date": "2026-06-01",
     "url": "https://www.csi.go.kr/community/dataOnlyView.do?bbs_id=data&bbt_no=147939",
@@ -1820,17 +1842,6 @@
     "title": "TBM 교육 자료",
     "date": "2024-12-13",
     "url": "https://www.csi.go.kr/community/dataOnlyView.do?bbs_id=data&bbt_no=116941",
-    "tags": [
-      "안전",
-      "건설"
-    ]
-  },
-  {
-    "source": "CSI",
-    "category": "안전",
-    "title": "안전관리계획서 관련 민원 사례집[2023]",
-    "date": "2024-08-06",
-    "url": "https://www.csi.go.kr/community/dataOnlyView.do?bbs_id=data&bbt_no=108005",
     "tags": [
       "안전",
       "건설"
