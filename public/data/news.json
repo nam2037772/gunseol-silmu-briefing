@@ -57,6 +57,28 @@
   {
     "source": "국토교통부",
     "category": "정책·제도",
+    "title": "하나의 앱에서 KTX·SRT 예매한다... 통합 앱 ‘코레일+’ 8월 3일 출시",
+    "date": "2026-07-31",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092278&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "코레일-SR 기업결합 승인",
+    "date": "2026-07-31",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092277&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
     "title": "[차관동정] 홍지선 제2차관, “모빌리티 혁신, 전문가와 현장의 제안을 실질적 성과로 연결”",
     "date": "2026-07-30",
     "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092275&src=text&kw=000004",
@@ -748,17 +770,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "건축사 자격제도, 2032년까지 단계적 개편",
-    "date": "2026-07-24",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092254&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
     "source": "CSI",
     "category": "안전",
     "title": "시스템 작업 안내(2026-07-23 18:00 ~ 02:00)",
@@ -767,17 +778,6 @@
     "tags": [
       "안전",
       "건설"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "’26년 상반기 전국 지가 1.22% 상승",
-    "date": "2026-07-23",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092252&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   },
   {
