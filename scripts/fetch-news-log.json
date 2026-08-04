@@ -1,55 +1,5 @@
 [
   {
-    "runAt": "2026-07-20T02:02:03.178Z",
-    "sources": [
-      {
-        "name": "국토교통부 보도자료",
-        "status": "error",
-        "count": 0,
-        "error": "fetch failed",
-        "tookMs": 10562
-      },
-      {
-        "name": "국토교통부 공지사항",
-        "status": "error",
-        "count": 0,
-        "error": "fetch failed",
-        "tookMs": 10494
-      },
-      {
-        "name": "대한건설협회 공지사항",
-        "status": "ok",
-        "count": 10,
-        "tookMs": 5483
-      },
-      {
-        "name": "대한건설협회 보도자료",
-        "status": "ok",
-        "count": 10,
-        "tookMs": 3244
-      },
-      {
-        "name": "대한건축사협회 공지사항",
-        "status": "ok",
-        "count": 11,
-        "tookMs": 1107
-      },
-      {
-        "name": "CSI 공지사항",
-        "status": "ok",
-        "count": 10,
-        "tookMs": 1205
-      },
-      {
-        "name": "CSI 자료실",
-        "status": "ok",
-        "count": 10,
-        "tookMs": 731
-      }
-    ],
-    "totalItems": 142
-  },
-  {
     "runAt": "2026-07-20T14:00:16.990Z",
     "sources": [
       {
@@ -1481,6 +1431,54 @@
         "status": "ok",
         "count": 10,
         "tookMs": 999
+      }
+    ],
+    "totalItems": 185
+  },
+  {
+    "runAt": "2026-08-04T01:28:14.602Z",
+    "sources": [
+      {
+        "name": "국토교통부 보도자료",
+        "status": "ok",
+        "count": 10,
+        "tookMs": 2727
+      },
+      {
+        "name": "국토교통부 공지사항",
+        "status": "ok",
+        "count": 10,
+        "tookMs": 2214
+      },
+      {
+        "name": "대한건설협회 공지사항",
+        "status": "ok",
+        "count": 11,
+        "tookMs": 7136
+      },
+      {
+        "name": "대한건설협회 보도자료",
+        "status": "ok",
+        "count": 10,
+        "tookMs": 3796
+      },
+      {
+        "name": "대한건축사협회 공지사항",
+        "status": "ok",
+        "count": 13,
+        "tookMs": 1624
+      },
+      {
+        "name": "CSI 공지사항",
+        "status": "ok",
+        "count": 10,
+        "tookMs": 2067
+      },
+      {
+        "name": "CSI 자료실",
+        "status": "ok",
+        "count": 10,
+        "tookMs": 1146
       }
     ],
     "totalItems": 185
