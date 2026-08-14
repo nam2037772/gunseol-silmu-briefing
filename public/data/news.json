@@ -1,6 +1,28 @@
 [
   {
     "source": "대한건설협회",
+    "category": "최신공지",
+    "title": "[파이낸셜뉴스] 2026 대한민국 국토대전 작품 공모",
+    "date": "2026-08-14",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=160124",
+    "tags": [
+      "건설",
+      "협회"
+    ]
+  },
+  {
+    "source": "대한건설협회",
+    "category": "정책·제도",
+    "title": "[26.8.14] 대한건설협회, 정부「주택 신속공급 방안」환영 입장",
+    "date": "2026-08-14",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C12/A/2/view.do?article_seq=160151",
+    "tags": [
+      "건설",
+      "협회"
+    ]
+  },
+  {
+    "source": "대한건설협회",
     "category": "안전",
     "title": "건설현장 밀폐공간 질식사고 예방안내",
     "date": "2026-08-13",
@@ -2172,28 +2194,6 @@
     "title": "[무상지원 참여 현장 모집] 중 · 소규모 건설현장에 무상으로 스마트 안전장비를 지원합니다.",
     "date": "2026-01-30",
     "url": "https://www.csi.go.kr/community/noticeOnlyView.do?bbs_id=noti&bbt_no=144238",
-    "tags": [
-      "안전",
-      "건설"
-    ]
-  },
-  {
-    "source": "CSI",
-    "category": "안전",
-    "title": "&apos;25년도 상반기 건설사고 초기현장조사 결과에 따른 위험요소 프로파일 게시(&apos;25년 상반기, 25건)",
-    "date": "2025-09-30",
-    "url": "https://www.csi.go.kr/community/dataOnlyView.do?bbs_id=data&bbt_no=136496",
-    "tags": [
-      "안전",
-      "건설"
-    ]
-  },
-  {
-    "source": "CSI",
-    "category": "건설기술",
-    "title": "런처공법 적용 PSC거더 교량 점검 체크리스트",
-    "date": "2025-09-30",
-    "url": "https://www.csi.go.kr/community/dataOnlyView.do?bbs_id=data&bbt_no=136495",
     "tags": [
       "안전",
       "건설"
