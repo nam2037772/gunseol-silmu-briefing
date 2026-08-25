@@ -2,6 +2,39 @@
   {
     "source": "국토교통부",
     "category": "공공기관",
+    "title": "부동산투자회사 변경인가 공고(㈜과천주암대토개발제1호위탁관리부동산투자회사)",
+    "date": "2026-08-25",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269360&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "대한건축사협회",
+    "category": "최신공지",
+    "title": "[공지사항] 제2차『건축사사무소에 필요한 구조교육』교육대상자 공고",
+    "date": "2026-08-25",
+    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=264270",
+    "tags": [
+      "건축",
+      "협회"
+    ]
+  },
+  {
+    "source": "CSI",
+    "category": "안전",
+    "title": "충청권 설계안전성검토(DfS) 인사이트 설명회 안내",
+    "date": "2026-08-25",
+    "url": "https://www.csi.go.kr/community/noticeOnlyView.do?bbs_id=noti&bbt_no=148807",
+    "tags": [
+      "안전",
+      "건설"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
     "title": "울산다운2 공공주택지구 지구계획 변경(11차) 승인",
     "date": "2026-08-24",
     "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269267&mode=view&src=text&kw=000001",
@@ -74,6 +107,17 @@
     "tags": [
       "건설",
       "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면",
+    "date": "2026-08-24",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092333&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
     ]
   },
   {
@@ -782,17 +826,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "공공기관",
-    "title": "파주운정3지구 택지개발사업 개발계획 변경(20차) 및 실시계획 변경(18차) 승인",
-    "date": "2026-08-13",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269252&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "정책·제도",
     "title": "[참고] 미래를 위한 세제지원, 자율주행 혁신은 앞당기고 청년 주거부담은 낮춘다.",
     "date": "2026-08-12",
@@ -899,17 +932,6 @@
     "tags": [
       "건축",
       "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[해명] 금번 주택 공급대책에 성남 골프장 포함 여부를 검토 중이라는 것은 사실이 아닙니다.",
-    "date": "2026-08-11",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092299&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   },
   {
@@ -2175,28 +2197,6 @@
     "tags": [
       "건설",
       "협회"
-    ]
-  },
-  {
-    "source": "대한건축사협회",
-    "category": "최신공지",
-    "title": "[공지사항] 2026년도 제2회 건축사 자격시험 시행계획 공고",
-    "date": "2026-06-12",
-    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=263386",
-    "tags": [
-      "건축",
-      "협회"
-    ]
-  },
-  {
-    "source": "CSI",
-    "category": "안전",
-    "title": "2026년 우수건설기술인(국가인증 감리인) 선정계획 공고",
-    "date": "2026-06-11",
-    "url": "https://www.csi.go.kr/community/noticeOnlyView.do?bbs_id=noti&bbt_no=148032",
-    "tags": [
-      "안전",
-      "건설"
     ]
   }
 ]
