@@ -55,6 +55,28 @@
     ]
   },
   {
+    "source": "대한건설협회",
+    "category": "안전",
+    "title": "건설현장 KS인증 안전자재 사용 요청",
+    "date": "2026-08-26",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=160483",
+    "tags": [
+      "건설",
+      "협회"
+    ]
+  },
+  {
+    "source": "대한건축사협회",
+    "category": "최신공지",
+    "title": "[공지사항] 2026년「공사감리 전문교육」9월 집합교육 교육생(건축사) 모집 안내",
+    "date": "2026-08-26",
+    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=264298",
+    "tags": [
+      "건축",
+      "협회"
+    ]
+  },
+  {
     "source": "국토교통부",
     "category": "공공기관",
     "title": "부동산투자회사 변경인가 공고(㈜과천주암대토개발제1호위탁관리부동산투자회사)",
@@ -2174,28 +2196,6 @@
     "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=263450",
     "tags": [
       "건축",
-      "협회"
-    ]
-  },
-  {
-    "source": "CSI",
-    "category": "안전",
-    "title": "안전관리계획서 사본 및 검토결과 제출 방법 안내",
-    "date": "2026-06-17",
-    "url": "https://www.csi.go.kr/community/noticeOnlyView.do?bbs_id=noti&bbt_no=148086",
-    "tags": [
-      "안전",
-      "건설"
-    ]
-  },
-  {
-    "source": "대한건설협회",
-    "category": "정책·제도",
-    "title": "[26.06.15] 대한건설협회,「제1회 건설 CEO 리더십 포럼」개최",
-    "date": "2026-06-15",
-    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C12/A/2/view.do?article_seq=158005",
-    "tags": [
-      "건설",
       "협회"
     ]
   }
