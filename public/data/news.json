@@ -1,6 +1,61 @@
 [
   {
     "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[설명] 용산어린이정원 이용객 관련 보도에 대해 설명드립니다.",
+    "date": "2026-08-26",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092341&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "부동산투자회사 영업인가 공고(㈜화도케이원제31호위탁관리부동산투자회사)",
+    "date": "2026-08-26",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269388&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "법령·고시",
+    "title": "제3종시설물의 지정 고시",
+    "date": "2026-08-26",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269294&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "부동산투자회사 영업인가 공고(㈜우미대한제68호위탁관리부동산투자회사)",
+    "date": "2026-08-26",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269390&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "법령·고시",
+    "title": "제2철도교통관제센터 건설사업 실시계획 변경 고시",
+    "date": "2026-08-26",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269384&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "공공기관",
     "title": "부동산투자회사 변경인가 공고(㈜과천주암대토개발제1호위탁관리부동산투자회사)",
     "date": "2026-08-25",
@@ -104,6 +159,17 @@
     "title": "LH 주택공급 설명회 개최 안내",
     "date": "2026-08-25",
     "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=160453",
+    "tags": [
+      "건설",
+      "협회"
+    ]
+  },
+  {
+    "source": "대한건설협회",
+    "category": "AI·디지털",
+    "title": "[26.08.25] 대한건설협회,「2026 스마트건설 청년인재 채용설명회」개최",
+    "date": "2026-08-25",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C12/A/2/view.do?article_seq=160466",
     "tags": [
       "건설",
       "협회"
@@ -771,17 +837,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "공공기관",
-    "title": "사업인정(국립중앙의료원 신축이전 및 중앙감염병병원, 중앙외상센터 건립사업)",
-    "date": "2026-08-14",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269285&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "정책·제도",
     "title": "동심으로 바라본 세계지도, 그림으로 펼쳐진다",
     "date": "2026-08-14",
@@ -837,17 +892,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[설명] 2027년 청년월세 소득요건 및 지원금액은 확정된 바 없습니다.",
-    "date": "2026-08-13",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092307&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "안전",
     "title": "국토부, 철도사고·운행장애 예방에 총력 대응 노후 철도부품 미리 바꾸고, 고위험 작업장 안전관리 강화한다",
     "date": "2026-08-13",
@@ -855,17 +899,6 @@
     "tags": [
       "건설",
       "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "수도권광역급행철도 C노선 민간투자사업 실시계획 변경(2차) 승인",
-    "date": "2026-08-13",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269247&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
     ]
   },
   {
@@ -1639,17 +1672,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "법령·고시",
-    "title": "자동차부품 자기인증 시험시설 지정 고시",
-    "date": "2026-07-14",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=268926&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
     "source": "대한건축사협회",
     "category": "최신공지",
     "title": "[공지사항] 직원채용 공고 안내",
@@ -1710,17 +1732,6 @@
     "title": "건설신기술 지정(2753)",
     "date": "2026-07-13",
     "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=268810&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "법령·고시",
-    "title": "아파트 대피공간 대체시설 인정 변경 고시[레스큐레일(주), 9호]",
-    "date": "2026-07-13",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=268890&mode=view&src=text&kw=000001",
     "tags": [
       "건설",
       "공공"
@@ -2186,17 +2197,6 @@
     "tags": [
       "건설",
       "협회"
-    ]
-  },
-  {
-    "source": "CSI",
-    "category": "안전",
-    "title": "[공지] 설계의 안전성 검토 업무 매뉴얼 개정(안) 배포 알림(&apos;26. 6)",
-    "date": "2026-06-15",
-    "url": "https://www.csi.go.kr/community/noticeOnlyView.do?bbs_id=noti&bbt_no=148064",
-    "tags": [
-      "안전",
-      "건설"
     ]
   }
 ]
