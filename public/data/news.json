@@ -1,6 +1,94 @@
 [
   {
     "source": "국토교통부",
+    "category": "공공기관",
+    "title": "화성어천 공공주택지구 지구계획 변경(4차) 및 주택지구 밖 사업(도로) 승인",
+    "date": "2026-08-28",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269410&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "화성-안성 고속도로 민간투자사업 전략환경영향평가 및 기후변화영향평가 평가항목 등의 결정내용 공개",
+    "date": "2026-08-28",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269417&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "건설기술",
+    "title": "건설신기술 보호기간 연장(2785)",
+    "date": "2026-08-28",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269420&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "건설기술",
+    "title": "건설신기술 보호기간 연장(2786)",
+    "date": "2026-08-28",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269421&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "주민감사청구 공표",
+    "date": "2026-08-28",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269409&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "경부선 왜관~동대구간 배전선로 개량사업 실시계획 승인",
+    "date": "2026-08-28",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269411&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "하남-남양주-포천 고속도로 민간투자사업 전략환경영향평가서 초안에 대한 주민 등의 의견수렴 결과 및 반영 여부 공개",
+    "date": "2026-08-28",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=268147&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "건설기술",
+    "title": "건설신기술 지정 신청(2816)",
+    "date": "2026-08-28",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269413&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "안전",
     "title": "“KTX·SRT 고속철도 통합, 안전하고 빈틈없이 준비한다”",
     "date": "2026-08-27",
@@ -19,6 +107,17 @@
     "tags": [
       "건설",
       "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "위례선 트램 건설사업 갈등조정안 심의·의결",
+    "date": "2026-08-27",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092355&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
     ]
   },
   {
@@ -737,17 +836,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "2025년 도시계획현황 통계",
-    "date": "2026-08-19",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092317&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
     "source": "대한건설협회",
     "category": "정책·제도",
     "title": "국토부의 「시설물유지관리업 전환 업종에 대한 등록기준 추가유예 관련 처리방안」 안내",
@@ -836,39 +924,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "부동산투자회사 영업등록 신청사실 공고(밸류트러스트제2호기업구조조정부동산투자회사)",
-    "date": "2026-08-18",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269361&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "제40회 육운의날 정부포상 후보자 공개검증",
-    "date": "2026-08-18",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269338&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "부동산투자회사 특례등록 공고[(주)우리성남금토대토제1호위탁관리부동산투자회사]",
-    "date": "2026-08-18",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269297&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
     "source": "대한건설협회",
     "category": "최신공지",
     "title": "[파이낸셜뉴스] 2026 대한민국 국토대전 작품 공모",
@@ -899,28 +954,6 @@
     "tags": [
       "건설",
       "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "사업인정(해남군 농업연구2단지 조성사업)",
-    "date": "2026-08-14",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269284&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "사업인정(보령 충청수영성 선소 일원 정비사업)",
-    "date": "2026-08-14",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269286&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
     ]
   },
   {
@@ -2163,39 +2196,6 @@
     "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=263544",
     "tags": [
       "건축",
-      "협회"
-    ]
-  },
-  {
-    "source": "대한건축사협회",
-    "category": "최신공지",
-    "title": "[공지사항] 제1차『3D 프린팅 기술로 바라보는 미래 건축의 가능성』교육생 추가모집 공고",
-    "date": "2026-06-22",
-    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=263505",
-    "tags": [
-      "건축",
-      "협회"
-    ]
-  },
-  {
-    "source": "대한건축사협회",
-    "category": "최신공지",
-    "title": "[공지사항] 건축자재정보 시스템 기능 고도화 사업 용역 입찰공고",
-    "date": "2026-06-22",
-    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=263503",
-    "tags": [
-      "건축",
-      "협회"
-    ]
-  },
-  {
-    "source": "대한건설협회",
-    "category": "AI·디지털",
-    "title": "[26.06.19] 대한건설협회, 미래건설인 스마트건설 현장견학 성료",
-    "date": "2026-06-19",
-    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C12/A/2/view.do?article_seq=158166",
-    "tags": [
-      "건설",
       "협회"
     ]
   }
