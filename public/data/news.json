@@ -1,6 +1,39 @@
 [
   {
     "source": "국토교통부",
+    "category": "공공기관",
+    "title": "수도권광역급행철도 B노선 민간투자사업 보상협의 공고(공시송달)",
+    "date": "2026-09-01",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269467&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "국가공간정보통합플랫폼(K-GeoP)운영 수탁기관 재공모",
+    "date": "2026-09-01",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269470&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "노후계획도시 정비사업 주민대표단 운영규정 예시",
+    "date": "2026-09-01",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269474&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "법령·고시",
     "title": "제4차 환승센터 및 복합환승센터 구축 기본계획 고시",
     "date": "2026-08-31",
@@ -27,6 +60,39 @@
     "title": "공공주택건설 사업계획 경미한 변경(화성병점복합타운 주상1BL)",
     "date": "2026-08-31",
     "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269432&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "「2026 항공산업 커리어 엑스포」 개최… “항공 일자리, 한 자리에서 만난다”",
+    "date": "2026-08-31",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092366&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "안전",
+    "title": "코레일-에스알 9월 1일 하나로... 안전 최우선, 더 편리한 고속철도의 시작",
+    "date": "2026-08-31",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092365&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "2026년 3차 국토교통부 혁신제품 지정 공고",
+    "date": "2026-08-31",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269471&mode=view&src=text&kw=000001",
     "tags": [
       "건설",
       "공공"
@@ -225,6 +291,17 @@
     "title": "주택공급 촉진을 위한 건설·금융업계 간담회 개최",
     "date": "2026-08-28",
     "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092356&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "‘26년 7월 주택통계",
+    "date": "2026-08-28",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092360&src=text&kw=000004",
     "tags": [
       "건설",
       "정책"
@@ -771,28 +848,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[해명] 「2차 공공기관 이전」 관련, 이전 대상기관 및 발표 일정은 정해진바 없습니다.",
-    "date": "2026-08-20",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092328&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[해명] 현재 용산공원을 활용한 구체적인 주택건설계획은 정해진 바가 없습니다.",
-    "date": "2026-08-20",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092327&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "법령·고시",
     "title": "[참고] 주택공급 확대방안 9.7대책 관련 법률 제·개정안 6건 국회 본회의 통과",
     "date": "2026-08-20",
@@ -819,17 +874,6 @@
     "title": "외국인등의 토지거래허가구역 지정 고시",
     "date": "2026-08-20",
     "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269387&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "토지거래허가구역 재지정 공고",
-    "date": "2026-08-20",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269386&mode=view&src=text&kw=000001",
     "tags": [
       "건설",
       "공공"
@@ -874,17 +918,6 @@
     "title": "수색~광명 고속철도 건설사업 기본계획 고시",
     "date": "2026-08-19",
     "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269299&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "공공기관 지원 12·29사단법인 선정계획 재공고",
-    "date": "2026-08-19",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269305&mode=view&src=text&kw=000001",
     "tags": [
       "건설",
       "공공"
@@ -943,28 +976,6 @@
     "tags": [
       "건설",
       "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "“세종국책연구단지 제2연구청사 개발사업” 실시설계 기술제안입찰 기술제안서 심의위원 명단 공고",
-    "date": "2026-08-18",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269362&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "부동산투자회사 영업인가 신청사실 공고(우미대한제68호위탁관리부동산투자회사)",
-    "date": "2026-08-18",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269358&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
     ]
   },
   {
@@ -2186,17 +2197,6 @@
     "tags": [
       "안전",
       "건설"
-    ]
-  },
-  {
-    "source": "대한건설협회",
-    "category": "안전",
-    "title": "장마철 건설현장 안전관련 자료 배포",
-    "date": "2026-06-29",
-    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=158432",
-    "tags": [
-      "건설",
-      "협회"
     ]
   }
 ]
