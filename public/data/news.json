@@ -34,6 +34,28 @@
   },
   {
     "source": "국토교통부",
+    "category": "안전",
+    "title": "도심항공교통(K-UAM) 안전운용기술,실제 운용환경에서 실증한다",
+    "date": "2026-09-01",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092367&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "대한건설협회",
+    "category": "정책·제도",
+    "title": "[26.09.01] 대한건설협회, 2026년 하반기 적용 건설업 임금실태조사 결과 공표",
+    "date": "2026-09-01",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C12/A/2/view.do?article_seq=160600",
+    "tags": [
+      "건설",
+      "협회"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "법령·고시",
     "title": "제4차 환승센터 및 복합환승센터 구축 기본계획 고시",
     "date": "2026-08-31",
@@ -2175,28 +2197,6 @@
     "tags": [
       "건설",
       "협회"
-    ]
-  },
-  {
-    "source": "대한건설협회",
-    "category": "최신공지",
-    "title": "2026 대한건설협회 전문가 채용 공고",
-    "date": "2026-06-30",
-    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=158465",
-    "tags": [
-      "건설",
-      "협회"
-    ]
-  },
-  {
-    "source": "CSI",
-    "category": "안전",
-    "title": "2026년 아차사고 퀴즈 이벤트 정답 공개",
-    "date": "2026-06-29",
-    "url": "https://www.csi.go.kr/community/noticeOnlyView.do?bbs_id=noti&bbt_no=148196",
-    "tags": [
-      "안전",
-      "건설"
     ]
   }
 ]
