@@ -57,6 +57,17 @@
   {
     "source": "국토교통부",
     "category": "공공기관",
+    "title": "2027년 국토교통부 지출구조조정 내역현황",
+    "date": "2026-09-02",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269500&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
     "title": "수도권광역급행철도 B노선 민간투자사업 보상협의 공고(공시송달)",
     "date": "2026-09-01",
     "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269467&mode=view&src=text&kw=000001",
@@ -126,6 +137,17 @@
     "title": "[참고] 국토부 ‘27년 정부안 역대 최대 69조원 편성",
     "date": "2026-09-01",
     "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092368&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "안전",
+    "title": "항공업계, ‘25년 안전에 13.3조원 투자",
+    "date": "2026-09-01",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092369&src=text&kw=000004",
     "tags": [
       "건설",
       "정책"
@@ -852,17 +874,6 @@
     "title": "감정평가사 징계사실 공고",
     "date": "2026-08-21",
     "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269336&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "인천가정2 공공주택지구 조성사업(2단계) 준공",
-    "date": "2026-08-21",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269347&mode=view&src=text&kw=000001",
     "tags": [
       "건설",
       "공공"
@@ -2185,17 +2196,6 @@
     "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=158485",
     "tags": [
       "건설",
-      "협회"
-    ]
-  },
-  {
-    "source": "대한건축사협회",
-    "category": "최신공지",
-    "title": "[공지사항] 제1차『3D 프린팅 기술로 바라보는 미래 건축의 가능성』 교육대상자 공고",
-    "date": "2026-06-30",
-    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=263615",
-    "tags": [
-      "건축",
       "협회"
     ]
   }
