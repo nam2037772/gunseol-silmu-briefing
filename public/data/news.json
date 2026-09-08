@@ -1,6 +1,39 @@
 [
   {
     "source": "국토교통부",
+    "category": "건설기술",
+    "title": "건설신기술 지정 신청(2814)",
+    "date": "2026-09-09",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269510&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "건설기술",
+    "title": "건설신기술 지정(2761)",
+    "date": "2026-09-09",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269511&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "인천계양테크노밸리 공공주택지구 지구계획 변경(4차) 승인",
+    "date": "2026-09-09",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269515&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "AI·디지털",
     "title": "스마트시티의 10년을 넘어 AI 시티로, 「2026 월드 스마트시티 엑스포」 개최",
     "date": "2026-09-08",
@@ -41,6 +74,50 @@
     "tags": [
       "건설",
       "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[설명] 국토부와 LH가 파견직원의 복귀 문제를 두고 대립하고 있다는 내용은 사실과 다릅니다.",
+    "date": "2026-09-08",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092400&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[차관동정] 김이탁 제1차관, 폴란드와 스마트시티·PPP 협력 강화 논의",
+    "date": "2026-09-08",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092398&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[차관동정] 김이탁 제1차관, 서울 도심 공공재개발 현장 방문, 국민 체감 가능한 속도제고 강조",
+    "date": "2026-09-08",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092395&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "대한건설협회",
+    "category": "정책·제도",
+    "title": "[26.09.08] 대한건설협회,「전남도회 . 광주시회 통합 주친위원회」킥오프 회의 개최",
+    "date": "2026-09-08",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C12/A/2/view.do?article_seq=160869",
+    "tags": [
+      "건설",
+      "협회"
     ]
   },
   {
@@ -848,39 +925,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "환승센터 구축으로 전국을 더 편리하고 가깝게",
-    "date": "2026-08-28",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092358&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[차관동정] 김이탁 1차관, “남양주 도심·왕숙 주택공급 속도 높여 국민 체감 앞당길 것” 강조",
-    "date": "2026-08-28",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092362&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "청년의 잠재력에 국가가 투자합니다! 청년 예산 언박싱(UNBOXING) 2027, 「청년 성장단계별 종합투자 추진전략」 발표",
-    "date": "2026-08-28",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092357&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "안전",
     "title": "“KTX·SRT 고속철도 통합, 안전하고 빈틈없이 준비한다”",
     "date": "2026-08-27",
@@ -896,17 +940,6 @@
     "title": "[가덕도신공항 건설사업] 타당성평가 보고서 검토 결과",
     "date": "2026-08-27",
     "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269436&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "부동산투자회사 영업인가 공고(㈜화도케이원제31호위탁관리부동산투자회사)",
-    "date": "2026-08-26",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269388&mode=view&src=text&kw=000001",
     "tags": [
       "건설",
       "공공"
@@ -2164,39 +2197,6 @@
     "tags": [
       "건축",
       "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "건설기술",
-    "title": "건설신기술 보호기간 연장 신청(2802)",
-    "date": "2026-07-08",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=268755&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "건설기술",
-    "title": "건설신기술 보호기간 연장 신청(2795)",
-    "date": "2026-07-08",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=268749&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "안전",
-    "title": "경부선 청도사고 등 철도안전법 위반사항에 과징금 부과",
-    "date": "2026-07-08",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092203&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   }
 ]
