@@ -2,6 +2,17 @@
   {
     "source": "국토교통부",
     "category": "공공기관",
+    "title": "순환골재 품질인증 사용중지 공고",
+    "date": "2026-09-11",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269566&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
     "title": "과천지식정보타운 공공주택지구 조성사업(2단계) 준공 공고",
     "date": "2026-09-10",
     "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269514&mode=view&src=text&kw=000001",
@@ -57,7 +68,7 @@
   {
     "source": "대한건설협회",
     "category": "최신공지",
-    "title": "[2026-6] 대한건설협회 노후 데이터베이스 업그레이드 및 정보시스템 개선 용역업체 선정 입찰공고",
+    "title": "[2026-6] 대한건설협회 노후 데이터베이스 업그레이드 및 정보시스템 개선 용역업체 선정 입찰공고(2026-6-1 정정공고 참조)",
     "date": "2026-09-10",
     "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=160936",
     "tags": [
@@ -71,6 +82,61 @@
     "title": "[2026-5] 2026년도 전산기기(데스크탑) 구매 입찰공고",
     "date": "2026-09-10",
     "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=160935",
+    "tags": [
+      "건설",
+      "협회"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[설명] 3기 신도시 LH 공공분양주택의 중도금 대출은 차질없이 제공될 예정입니다.",
+    "date": "2026-09-10",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092412&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[설명] 정부는 근거 없는 공사비 인상을 막고, 분쟁이 발생한 정비사업 현장을 직접 찾아가 해결하고 있습니다.",
+    "date": "2026-09-10",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092411&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[설명] 국토부는 1기 신도시 정비사업의 원활한 추진을 적극 지원하고 있습니다.",
+    "date": "2026-09-10",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092410&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "대한건설협회",
+    "category": "최신공지",
+    "title": "[2026-6-1] 대한건설협회 노후 데이터베이스 업그레이드 및 정보시스템 개선 용역업체 선정 입찰 정정공고",
+    "date": "2026-09-10",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=160941",
+    "tags": [
+      "건설",
+      "협회"
+    ]
+  },
+  {
+    "source": "대한건설협회",
+    "category": "최신공지",
+    "title": "「강북구 행정복합타운 건립공사」 사전설명회 개최 안내",
+    "date": "2026-09-10",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=160938",
     "tags": [
       "건설",
       "협회"
@@ -628,28 +694,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[참고] 「2차 공공기관 지방이전」 본격 추진",
-    "date": "2026-09-03",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092378&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "추석 명절 택배 특별관리기간 4주간 운영",
-    "date": "2026-09-03",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092377&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "공공기관",
     "title": "인제서화 고령자복지주택 건설사업 사업계획 경미한 변경",
     "date": "2026-09-03",
@@ -756,17 +800,6 @@
     "tags": [
       "안전",
       "건설"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "국토위성으로 남·북극 살피고, 남극 우리말 지명 넓힌다",
-    "date": "2026-09-02",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092372&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   },
   {
@@ -951,17 +984,6 @@
     "title": "건설신기술 보호기간 연장(2786)",
     "date": "2026-08-28",
     "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269421&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "주민감사청구 공표",
-    "date": "2026-08-28",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269409&mode=view&src=text&kw=000001",
     "tags": [
       "건설",
       "공공"
@@ -2175,28 +2197,6 @@
     "tags": [
       "건설",
       "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "건설기술",
-    "title": "건설신기술 지정(2753)",
-    "date": "2026-07-13",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=268810&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "AI·디지털",
-    "title": "건설 AI, 스마트건설을 이끌어갈 실증 기술과 강소기업 선정",
-    "date": "2026-07-12",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092215&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   }
 ]
