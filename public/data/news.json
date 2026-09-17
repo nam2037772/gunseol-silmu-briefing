@@ -44,6 +44,50 @@
     ]
   },
   {
+    "source": "대한건설협회",
+    "category": "최신공지",
+    "title": "시설물유지관리업 전환업체 중 등록기준 충족의무 추가 유예대상 명단 안내",
+    "date": "2026-09-17",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=161139",
+    "tags": [
+      "건설",
+      "협회"
+    ]
+  },
+  {
+    "source": "대한건설협회",
+    "category": "정책·제도",
+    "title": "건설업 외국인근로자(E-9) 현장 간 이동 제도 개선 안내",
+    "date": "2026-09-17",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=161137",
+    "tags": [
+      "건설",
+      "협회"
+    ]
+  },
+  {
+    "source": "대한건축사협회",
+    "category": "최신공지",
+    "title": "[공지사항] 건축사회관 8층 중회의실 회의용 마이크시스템 교체·설치공사 재입찰공고",
+    "date": "2026-09-17",
+    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=264650",
+    "tags": [
+      "건축",
+      "협회"
+    ]
+  },
+  {
+    "source": "CSI",
+    "category": "안전",
+    "title": "시스템 작업 안내(2026-09-17 18:00 ~ 02:00)",
+    "date": "2026-09-17",
+    "url": "https://www.csi.go.kr/community/noticeOnlyView.do?bbs_id=noti&bbt_no=149055",
+    "tags": [
+      "안전",
+      "건설"
+    ]
+  },
+  {
     "source": "국토교통부",
     "category": "공공기관",
     "title": "한국산업표준(KS) 제정 예고",
@@ -2153,50 +2197,6 @@
     "tags": [
       "건설",
       "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "건설기술",
-    "title": "건설신기술 지정 신청(2806)",
-    "date": "2026-07-20",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=268850&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "AI·디지털",
-    "title": "[공고문] 국토교통부 「AI 응용제품 신속 상용화 지원사업」 2차 공고(도로·모빌리티 분야)",
-    "date": "2026-07-20",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269034&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "대한건설협회",
-    "category": "최신공지",
-    "title": "LH 민간참여사업 금융지원 설명회 개최 알림",
-    "date": "2026-07-20",
-    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=159326",
-    "tags": [
-      "건설",
-      "협회"
-    ]
-  },
-  {
-    "source": "대한건설협회",
-    "category": "안전",
-    "title": "'26년 건설업체 산업재해예방활동 실적평가 사업주 교육안내",
-    "date": "2026-07-20",
-    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=159309",
-    "tags": [
-      "건설",
-      "협회"
     ]
   }
 ]
