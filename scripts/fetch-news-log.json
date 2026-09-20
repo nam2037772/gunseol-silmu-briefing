@@ -1,53 +1,5 @@
 [
   {
-    "runAt": "2026-09-05T14:33:09.837Z",
-    "sources": [
-      {
-        "name": "국토교통부 보도자료",
-        "status": "ok",
-        "count": 10,
-        "tookMs": 3117
-      },
-      {
-        "name": "국토교통부 공지사항",
-        "status": "ok",
-        "count": 10,
-        "tookMs": 2245
-      },
-      {
-        "name": "대한건설협회 공지사항",
-        "status": "ok",
-        "count": 11,
-        "tookMs": 5470
-      },
-      {
-        "name": "대한건설협회 보도자료",
-        "status": "ok",
-        "count": 10,
-        "tookMs": 2553
-      },
-      {
-        "name": "대한건축사협회 공지사항",
-        "status": "ok",
-        "count": 10,
-        "tookMs": 1829
-      },
-      {
-        "name": "CSI 공지사항",
-        "status": "ok",
-        "count": 10,
-        "tookMs": 2404
-      },
-      {
-        "name": "CSI 자료실",
-        "status": "ok",
-        "count": 10,
-        "tookMs": 1139
-      }
-    ],
-    "totalItems": 200
-  },
-  {
     "runAt": "2026-09-06T01:56:16.015Z",
     "sources": [
       {
@@ -1461,6 +1413,56 @@
         "status": "ok",
         "count": 10,
         "tookMs": 750
+      }
+    ],
+    "totalItems": 200
+  },
+  {
+    "runAt": "2026-09-20T15:25:01.063Z",
+    "sources": [
+      {
+        "name": "국토교통부 보도자료",
+        "status": "ok",
+        "count": 10,
+        "tookMs": 2347
+      },
+      {
+        "name": "국토교통부 공지사항",
+        "status": "ok",
+        "count": 10,
+        "tookMs": 3998
+      },
+      {
+        "name": "대한건설협회 공지사항",
+        "status": "ok",
+        "count": 12,
+        "tookMs": 6739
+      },
+      {
+        "name": "대한건설협회 보도자료",
+        "status": "ok",
+        "count": 10,
+        "tookMs": 3291
+      },
+      {
+        "name": "대한건축사협회 공지사항",
+        "status": "ok",
+        "count": 11,
+        "tookMs": 1475
+      },
+      {
+        "name": "CSI 공지사항",
+        "status": "error",
+        "count": 0,
+        "error": "fetch failed",
+        "tookMs": 10092
+      },
+      {
+        "name": "CSI 자료실",
+        "status": "error",
+        "count": 0,
+        "error": "fetch failed",
+        "tookMs": 10494
       }
     ],
     "totalItems": 200

@@ -1,6 +1,39 @@
 [
   {
     "source": "국토교통부",
+    "category": "건설기술",
+    "title": "우수 물류신기술등 연장 신청 공고(물류-20)",
+    "date": "2026-09-21",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269904&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "2026년 여객자동차터미널 BF인증 지원사업(5차)",
+    "date": "2026-09-21",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269877&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "공공주택건설 사업계획 변경승인(부천대장 A-2BL)",
+    "date": "2026-09-21",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269882&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "정책·제도",
     "title": "유류세 인하 연장, 추석연휴 고속도로 유류가격 및 전기차 충전요금 할인 등 민생안정에 총력",
     "date": "2026-09-18",
@@ -991,32 +1024,10 @@
   },
   {
     "source": "국토교통부",
-    "category": "공공기관",
-    "title": "부동산투자회사 영업인가 공고((주)과천주암업무대토위탁관리부동산투자회사)",
-    "date": "2026-09-04",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269475&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "법령·고시",
     "title": "서울 목4동 강서고 인근 도심 공공주택 복합지구의 지정 및 지형도면등의 고시",
     "date": "2026-09-04",
     "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269451&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "철강구조물 제작공장 공장인증서 발급",
-    "date": "2026-09-04",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269418&mode=view&src=text&kw=000001",
     "tags": [
       "건설",
       "공공"
@@ -2186,17 +2197,6 @@
     "tags": [
       "건설",
       "공공"
-    ]
-  },
-  {
-    "source": "대한건설협회",
-    "category": "안전",
-    "title": "산업안전보건관리비 개선방안을 위한 실태조사 협조요청",
-    "date": "2026-07-21",
-    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=159339",
-    "tags": [
-      "건설",
-      "협회"
     ]
   }
 ]
