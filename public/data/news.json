@@ -133,6 +133,50 @@
   },
   {
     "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "청년·고령자·양육가구 등 수요자 맞춤형 특화주택 공모",
+    "date": "2026-09-18",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092441&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "철도여행 2개월 전부터 준비하세요",
+    "date": "2026-09-18",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092440&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "추석 연휴 교통혼잡 해소에 총력... 정부 합동 특별교통대책을 시행합니다",
+    "date": "2026-09-18",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092439&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "안전",
+    "title": "안전운전 배달 종사자 보험료 최대 11% 할인",
+    "date": "2026-09-18",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092438&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "공공기관",
     "title": "주민감사청구 공표",
     "date": "2026-09-17",
@@ -715,28 +759,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[설명] 정부는 근거 없는 공사비 인상을 막고, 분쟁이 발생한 정비사업 현장을 직접 찾아가 해결하고 있습니다.",
-    "date": "2026-09-10",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092411&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[설명] 국토부는 1기 신도시 정비사업의 원활한 추진을 적극 지원하고 있습니다.",
-    "date": "2026-09-10",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092410&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
     "source": "대한건설협회",
     "category": "최신공지",
     "title": "[2026-6-1] 대한건설협회 노후 데이터베이스 업그레이드 및 정보시스템 개선 용역업체 선정 입찰 정정공고",
@@ -767,17 +789,6 @@
     "tags": [
       "안전",
       "건설"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "2026년도 민자고속도로 운영평가 결과",
-    "date": "2026-09-10",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092409&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   },
   {
@@ -2185,17 +2196,6 @@
     "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=159339",
     "tags": [
       "건설",
-      "협회"
-    ]
-  },
-  {
-    "source": "대한건축사협회",
-    "category": "최신공지",
-    "title": "[공지사항] 제3차『BF인증 평가도서 작성방법』교육생 모집공고(부산)",
-    "date": "2026-07-20",
-    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=263820",
-    "tags": [
-      "건축",
       "협회"
     ]
   }
