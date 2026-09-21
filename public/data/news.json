@@ -1,6 +1,50 @@
 [
   {
     "source": "국토교통부",
+    "category": "공공기관",
+    "title": "의왕오전왕곡 공공주택지구 지정 및 지형도면 등",
+    "date": "2026-09-22",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269881&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "부동산투자회사 특례등록 공고[㈜판교제3테크노밸리대한제56호위탁관리부동산투자회사]",
+    "date": "2026-09-22",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269618&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "고양대곡지식융합 공공주택지구의 지정 및 지형도면 등",
+    "date": "2026-09-22",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269883&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "부동산투자회사 특례등록 공고[㈜하남교산대한대토제74호위탁관리부동산투자회사]",
+    "date": "2026-09-22",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269620&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "건설기술",
     "title": "우수 물류신기술등 연장 신청 공고(물류-20)",
     "date": "2026-09-21",
@@ -30,6 +74,83 @@
     "tags": [
       "건설",
       "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "“두텁고 촘촘한 주거복지 실현을 위한 「주거안정플랜」”",
+    "date": "2026-09-21",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092442&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "국토부·기후부, 두 마리 토끼 잡는다... 모두의카드·그린카드 연계",
+    "date": "2026-09-21",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092445&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "“고속철도 통합후 첫 추석, 늘어난 좌석공급으로 귀성·귀경길 돕는다”",
+    "date": "2026-09-21",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092444&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "수도권 우수 입지에 2.3만 가구 공급 추진",
+    "date": "2026-09-21",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092443&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "대한건축사협회",
+    "category": "최신공지",
+    "title": "[공지사항] 2026년「공사감리 전문교육」10월 집합교육 교육생(건축사) 모집 안내",
+    "date": "2026-09-21",
+    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=264695",
+    "tags": [
+      "건축",
+      "협회"
+    ]
+  },
+  {
+    "source": "대한건축사협회",
+    "category": "최신공지",
+    "title": "[공지사항] 2027년도 캘린더(탁상용) 제작업체 선정 입찰공고",
+    "date": "2026-09-21",
+    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=264692",
+    "tags": [
+      "건축",
+      "협회"
+    ]
+  },
+  {
+    "source": "대한건축사협회",
+    "category": "최신공지",
+    "title": "[공지사항] 대한건축사협회 제35대 회장선거 공고 및 선거사무 추진일정 안내",
+    "date": "2026-09-21",
+    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=264691",
+    "tags": [
+      "건축",
+      "협회"
     ]
   },
   {
@@ -726,39 +847,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "’27년 도시재생 신규사업 선정 추진",
-    "date": "2026-09-10",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092408&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "관광·공공의료 등 지역 맞춤형 UAM 서비스 상용화 본격화",
-    "date": "2026-09-10",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092407&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "열차 내 화재나면 어떻게? 터널 비상정차까지 실전처럼 대응훈련 실시",
-    "date": "2026-09-10",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092406&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
     "source": "대한건설협회",
     "category": "최신공지",
     "title": "[2026-6] 대한건설협회 노후 데이터베이스 업그레이드 및 정보시스템 개선 용역업체 선정 입찰공고(2026-6-1 정정공고 참조)",
@@ -778,17 +866,6 @@
     "tags": [
       "건설",
       "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[설명] 3기 신도시 LH 공공분양주택의 중도금 대출은 차질없이 제공될 예정입니다.",
-    "date": "2026-09-10",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092412&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   },
   {
@@ -859,17 +936,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "공공기관",
-    "title": "인천계양테크노밸리 공공주택지구 지구계획 변경(4차) 승인",
-    "date": "2026-09-09",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269515&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "AI·디지털",
     "title": "AI로 이끄는 환승센터의 미래「제4차 광역교통 환승혁신 포럼」 개최",
     "date": "2026-09-09",
@@ -892,17 +958,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "공공기관",
-    "title": "제46회 항공의 날 정부포상 후보자 추가 공개 검증",
-    "date": "2026-09-09",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269567&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "AI·디지털",
     "title": "스마트시티의 10년을 넘어 AI 시티로, 「2026 월드 스마트시티 엑스포」 개최",
     "date": "2026-09-08",
@@ -910,17 +965,6 @@
     "tags": [
       "건설",
       "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "성남금토2 공공주택지구 전략환경영향평가서 초안 공람 및 설명회 개최 공고",
-    "date": "2026-09-08",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269531&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
     ]
   },
   {
@@ -998,17 +1042,6 @@
     "tags": [
       "건축",
       "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "2026년 대한민국 주거복지대전 정부포상 후보자 공모",
-    "date": "2026-09-07",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269532&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
     ]
   },
   {
@@ -2164,39 +2197,6 @@
     "tags": [
       "건축",
       "협회"
-    ]
-  },
-  {
-    "source": "대한건축사협회",
-    "category": "최신공지",
-    "title": "[공지사항] 제1차『D5 Render를 활용한 건축 실감형 이미지 제작(초급)』 교육대상자 공고",
-    "date": "2026-07-21",
-    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=263830",
-    "tags": [
-      "건축",
-      "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "AI·디지털",
-    "title": "한-아세안, 인공지능(AI)으로 더 안전하고 편리한 교통의 미래 함께 그린다",
-    "date": "2026-07-21",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092241&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "건설기술",
-    "title": "건설신기술 지정 신청(2812)",
-    "date": "2026-07-21",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=268913&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
     ]
   }
 ]
