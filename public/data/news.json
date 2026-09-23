@@ -100,6 +100,39 @@
   },
   {
     "source": "국토교통부",
+    "category": "안전",
+    "title": "[장관동정] 추석 귀성길 안전·편의 빈틈없도록 … 주요 교통현장 집중 점검",
+    "date": "2026-09-23",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092458&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "안전",
+    "title": "[설명] 국토교통부는 국민 안전을 최우선으로 조속히 대안을 결정할 계획입니다.",
+    "date": "2026-09-23",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092457&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[참고] 청약 예·부금 등 가입자, 종합저축 전환기회 1년 더",
+    "date": "2026-09-23",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092454&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "공공기관",
     "title": "의왕오전왕곡 공공주택지구 지정 및 지형도면 등",
     "date": "2026-09-22",
@@ -808,17 +841,6 @@
     "title": "[설명] 청년월세 지원사업은 원활히 추진 중이며, 앞으로도 충실히 이행하겠습니다.",
     "date": "2026-09-15",
     "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092426&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "2026년도 국제항공운수권 수시 배분결과",
-    "date": "2026-09-15",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092425&src=text&kw=000004",
     "tags": [
       "건설",
       "정책"
@@ -2175,28 +2197,6 @@
     "tags": [
       "건설",
       "협회"
-    ]
-  },
-  {
-    "source": "대한건설협회",
-    "category": "AI·디지털",
-    "title": "「2026 스마트건설 청년인재 채용설명회」 개최 및 참가신청 안내",
-    "date": "2026-07-24",
-    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=159477",
-    "tags": [
-      "건설",
-      "협회"
-    ]
-  },
-  {
-    "source": "CSI",
-    "category": "안전",
-    "title": "[긴급] 시스템 작업 안내(2026-07-24 12:00 ~ 13:00)",
-    "date": "2026-07-24",
-    "url": "https://www.csi.go.kr/community/noticeOnlyView.do?bbs_id=noti&bbt_no=148511",
-    "tags": [
-      "안전",
-      "건설"
     ]
   }
 ]
