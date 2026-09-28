@@ -1,6 +1,61 @@
 [
   {
     "source": "국토교통부",
+    "category": "법령·고시",
+    "title": "칠곡북삼 도시개발사업 구역지정 변경, 개발계획 수립 변경, 실시계획 변경 인가 및 지형도면 고시",
+    "date": "2026-09-29",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269890&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "공공주택건설 사업계획 변경승인(영동황간)",
+    "date": "2026-09-29",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269966&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "서울고덕강일 공공주택지구 지구계획 변경(15차) 승인",
+    "date": "2026-09-29",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269929&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "2026년 우수녹색물류실천기업 지정 신청기업 모집공고",
+    "date": "2026-09-29",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269988&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "AI·디지털",
+    "title": "「AIㆍ스마트도시 혁신인재육성 사업」 공모 공고",
+    "date": "2026-09-29",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269957&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "공공기관",
     "title": "빛그린산업단지 산업단지계획 변경(17차)",
     "date": "2026-09-28",
@@ -63,6 +118,72 @@
     "tags": [
       "건설",
       "협회"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[해명] 국토부는 3기 신도시의 신속한 추진을 위해 만전을 기하고 있습니다",
+    "date": "2026-09-28",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092465&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[차관동정] 김이탁 제1차관, “현장의 목소리를 도시재생 정책 변화로 이어가겠다”",
+    "date": "2026-09-28",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092464&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[설명] 민간 토지매각 실적 감소를 주택공급 감소로 보는 것은 적절하지 않습니다.",
+    "date": "2026-09-28",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092461&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "AI·디지털",
+    "title": "인공지능(AI) 도시·스마트 도시 석·박사 인재 키울 대학 4곳 선정",
+    "date": "2026-09-28",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092460&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "모두의카드 출퇴근 시차시간 혜택 계속 이어간다",
+    "date": "2026-09-28",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092459&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "CSI",
+    "category": "안전",
+    "title": "광주도서관 건립공사 붕괴사고 사고조사 보고서",
+    "date": "2026-09-28",
+    "url": "https://www.csi.go.kr/community/dataOnlyView.do?bbs_id=data&bbt_no=149107",
+    "tags": [
+      "안전",
+      "건설"
     ]
   },
   {
@@ -203,6 +324,17 @@
     "title": "도시의 오늘과 미래를 한눈에 … 29일부터 도시·지역혁신 박람회",
     "date": "2026-09-23",
     "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092456&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "’26.2분기 건설공사 계약액",
+    "date": "2026-09-23",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092455&src=text&kw=000004",
     "tags": [
       "건설",
       "정책"
@@ -694,17 +826,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "토지거래허가구역 내 실거주 유예, ’27년 12월 31일까지 연장ㆍ확대",
-    "date": "2026-09-17",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092432&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "안전",
     "title": "궤도시설 재허가·안전관리 기준 강화한다",
     "date": "2026-09-17",
@@ -759,61 +880,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "한국산업표준(KS) 제정 예고",
-    "date": "2026-09-16",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269573&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "지적재조사 책임수행기관 지정",
-    "date": "2026-09-16",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269576&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "위례~과천 광역철도 민간투자사업 전략환경영향평가서(초안) 공청회 개최 공고",
-    "date": "2026-09-16",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269580&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "강릉 찾는 글로벌 방문객, 철도·버스·택시 예약·결제 앱 하나로",
-    "date": "2026-09-16",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092429&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "“놀던 공간이 주민 소통 공간으로” … 주민공동시설 활성화 주요 사례 소개",
-    "date": "2026-09-16",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092428&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
     "source": "대한건설협회",
     "category": "최신공지",
     "title": "(국토교통부) 국립도시건축박물관 2026년 제4차 자료 공개 구입 공고",
@@ -822,28 +888,6 @@
     "tags": [
       "건설",
       "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "5극3특 국가균형발전 뒷받침할 초광역교통 전략 연내 마련",
-    "date": "2026-09-16",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092430&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "자동차 사이버보안 위협, 민·관 원팀으로 대응한다",
-    "date": "2026-09-15",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092423&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   },
   {
@@ -2112,17 +2156,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "법령·고시",
-    "title": "공공주택건설 사업계획 변경승인 및 지형도면고시(수원화서)",
-    "date": "2026-07-30",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269102&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
     "source": "대한건설협회",
     "category": "AI·디지털",
     "title": "청년들이 만드는 첨단 공공서비스 AI 영상 공모전 안내",
@@ -2161,39 +2194,6 @@
     "title": "[공지사항] 서울특별시 설계공모 심사위원 인력풀(S-Pool) 개인정보 수집·이용 동의 안내",
     "date": "2026-07-29",
     "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=263969",
-    "tags": [
-      "건축",
-      "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "건설기술",
-    "title": "건설신기술 보호기간 연장(2784)",
-    "date": "2026-07-28",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269070&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "대한건설협회",
-    "category": "안전",
-    "title": "폭염에 따른 재해복구 건설현장 안전관리 강화 요청",
-    "date": "2026-07-28",
-    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=159562",
-    "tags": [
-      "건설",
-      "협회"
-    ]
-  },
-  {
-    "source": "대한건축사협회",
-    "category": "최신공지",
-    "title": "[공지사항] 제2차『BF인증의 이해와 적용사례』교육생 추가모집공고",
-    "date": "2026-07-27",
-    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=263907",
     "tags": [
       "건축",
       "협회"
