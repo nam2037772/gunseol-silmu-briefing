@@ -111,6 +111,39 @@
   },
   {
     "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "‘도심 공공주택 복합사업’ 서울 11곳(1.8만호) 신규 후보지 선정",
+    "date": "2026-09-30",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092473&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "부동산투자회사 영업등록 신청사실 공고( ㈜밸류트러스트제3호기업구조조정부동산투자회사)",
+    "date": "2026-09-30",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270001&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "대한건설협회",
+    "category": "정책·제도",
+    "title": "[26.09.30] 대한건설협회, 2025년 기준 완성공사 원가통계 공표",
+    "date": "2026-09-30",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C12/A/2/view.do?article_seq=161502",
+    "tags": [
+      "건설",
+      "협회"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "법령·고시",
     "title": "칠곡북삼 도시개발사업 구역지정 변경, 개발계획 수립 변경, 실시계획 변경 인가 및 지형도면 고시",
     "date": "2026-09-29",
@@ -214,6 +247,28 @@
     "title": "[참고] 서소문고가 철거공사 붕괴사고, 건설사고조사위원회 조사기간 연장",
     "date": "2026-09-29",
     "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092470&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "전국 건축물 총 7,438,642동 / 43억 75백만㎡",
+    "date": "2026-09-29",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092471&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "‘26년 8월 주택통계 및 ‘25년 주택건설실적 통계 확정치 공표",
+    "date": "2026-09-29",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092469&src=text&kw=000004",
     "tags": [
       "건설",
       "정책"
@@ -638,17 +693,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "자산관리회사 변경인가 공고(신세계프라퍼티투자운용)",
-    "date": "2026-09-22",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269930&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
     "source": "대한건축사협회",
     "category": "최신공지",
     "title": "[공지사항] 2026 한국건축산업대전(KAFF 2026) 개최",
@@ -782,28 +826,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "제주 첨단과학기술단지, 전북 완주산단, 강원 문막산단 “청년이 모이는 첨단산단으로 거듭난다”",
-    "date": "2026-09-21",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092446&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "유류세 인하 연장, 추석연휴 고속도로 유류가격 및 전기차 충전요금 할인 등 민생안정에 총력",
-    "date": "2026-09-18",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092436&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "법령·고시",
     "title": "도로구역 결정(변경) 및 지형도면 고시(고속국도 제12호 광주대구선 133.5k)",
     "date": "2026-09-18",
@@ -855,17 +877,6 @@
     "tags": [
       "건설",
       "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "“주택인 줄 알았는데 숙박시설” 부동산 불법 광고 1만여 건 적발",
-    "date": "2026-09-18",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092435&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   },
   {
@@ -2186,17 +2197,6 @@
     "tags": [
       "건설",
       "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "안전",
-    "title": "광주대표도서관 붕괴사고 조사결과",
-    "date": "2026-07-30",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092272&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   }
 ]
