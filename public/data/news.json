@@ -1,6 +1,17 @@
 [
   {
     "source": "국토교통부",
+    "category": "공공기관",
+    "title": "부산∼양산∼울산 광역철도 건설사업 전략환경영향평가서(초안) 주민 공람 및 설명회 개최 공고",
+    "date": "2026-10-07",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270004&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "법령·고시",
     "title": "천안역세권 도시재생혁신지구(국가시범지구) 지정(변경) 및 지형도면 등의 고시?",
     "date": "2026-10-06",
@@ -29,6 +40,50 @@
     "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=264838",
     "tags": [
       "건축",
+      "협회"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "법령·고시",
+    "title": "「전세사기특별법」 시행령 개정안,6일 국무회의 의결",
+    "date": "2026-10-06",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092483&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "[공도~양성(2) 도로확포장공사] 타당성평가 보고서 검토 결과",
+    "date": "2026-10-06",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270036&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "[구암교차로 입체화사업] 타당성평가 보고서 검토 결과",
+    "date": "2026-10-06",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270035&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "대한건설협회",
+    "category": "최신공지",
+    "title": "전남개발공사 에너지자문위원회 외부위원 모집 안내",
+    "date": "2026-10-06",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=161633",
+    "tags": [
+      "건설",
       "협회"
     ]
   },
@@ -672,43 +727,10 @@
   },
   {
     "source": "국토교통부",
-    "category": "공공기관",
-    "title": "태화강~북울산(송정) 광역철도 건설사업 실시계획 변경(2차) 승인",
-    "date": "2026-09-23",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269878&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "부동산투자회사 영업인가 공고(㈜대전도안갑천4공공지원민간임대위탁관리부동산투자회사)",
-    "date": "2026-09-23",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269903&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "법령·고시",
     "title": "도로구역 결정(변경) 및 지형도면 고시(고속국도 제400호 수도권제2순환선(김포-파주) 건설공사)",
     "date": "2026-09-23",
     "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269614&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "부동산투자회사 변경인가 공고(㈜부산거제대한제47호위탁관리부동산투자회사)",
-    "date": "2026-09-23",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269902&mode=view&src=text&kw=000001",
     "tags": [
       "건설",
       "공공"
@@ -1881,17 +1903,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "법령·고시",
-    "title": "수색~광명 고속철도 건설사업 기본계획 고시",
-    "date": "2026-08-19",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269299&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
     "source": "대한건설협회",
     "category": "안전",
     "title": "'26년 하반기 건설업 안전보건관리체계 구축 컨설팅 지원사업 안내",
@@ -2186,17 +2197,6 @@
     "tags": [
       "건축",
       "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "안전",
-    "title": "[해명] 조류탐지레이더 시범운용은 항공안전 혁신방안에 따라 레이더 운용방안 마련을 위한 것으로 향후 예정된 레이더 구축사업 입찰과는 관계가 없습니다.",
-    "date": "2026-08-03",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092283&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   }
 ]
