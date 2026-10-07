@@ -1,6 +1,50 @@
 [
   {
     "source": "국토교통부",
+    "category": "법령·고시",
+    "title": "도로구역 결정(변경) 및 지형도면 고시(강진-광주)",
+    "date": "2026-10-08",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270002&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "철강구조물 제작공장 공장인증서 발급",
+    "date": "2026-10-08",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269987&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "하남교산 공공주택지구 지구계획 변경(5차) 및 지구 밖 사업계획 승인",
+    "date": "2026-10-08",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270020&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "법령·고시",
+    "title": "도로구역 결정(변경) 및 지형도면 고시(안성-구리 10-14공구)",
+    "date": "2026-10-08",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270003&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "공공기관",
     "title": "부산∼양산∼울산 광역철도 건설사업 전략환경영향평가서(초안) 주민 공람 및 설명회 개최 공고",
     "date": "2026-10-07",
@@ -52,6 +96,28 @@
     "tags": [
       "건설",
       "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[설명] 국토교통부 산하기관(10개) 정부보안관제체계 연계를 조속히 추진하고 사이버보안을 강화하겠습니다.",
+    "date": "2026-10-07",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092488&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[해명] 부동산 공시가격 현실화율 연 1.5%p 조정은 검토하고 있지 않습니다.",
+    "date": "2026-10-07",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092487&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
     ]
   },
   {
@@ -628,28 +694,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "공공기관",
-    "title": "빛그린산업단지 산업단지계획 변경(17차)",
-    "date": "2026-09-28",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269889&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "사업인정(갯벌 세계자연유산 보전원 건립사업)",
-    "date": "2026-09-28",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269884&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "건설기술",
     "title": "건설신기술 보호기간 연장(2796)",
     "date": "2026-09-28",
@@ -808,28 +852,6 @@
     "title": "[설명] 국토교통부는 국민 안전을 최우선으로 조속히 대안을 결정할 계획입니다.",
     "date": "2026-09-23",
     "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092457&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[참고] 청약 예·부금 등 가입자, 종합저축 전환기회 1년 더",
-    "date": "2026-09-23",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092454&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "도시의 오늘과 미래를 한눈에 … 29일부터 도시·지역혁신 박람회",
-    "date": "2026-09-23",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092456&src=text&kw=000004",
     "tags": [
       "건설",
       "정책"
@@ -1867,28 +1889,6 @@
     "tags": [
       "건설",
       "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "법령·고시",
-    "title": "[참고] 「녹색건축법」 · 「민간임대주택법」 ·「건설산업기본법」개정안 국회 본회의 통과",
-    "date": "2026-08-20",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092325&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "법령·고시",
-    "title": "외국인등의 토지거래허가구역 지정 고시",
-    "date": "2026-08-20",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269387&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
     ]
   },
   {
