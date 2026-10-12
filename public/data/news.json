@@ -22,6 +22,28 @@
     ]
   },
   {
+    "source": "대한건축사협회",
+    "category": "최신공지",
+    "title": "[공지사항] 제3차『에너지 절약계획서 실무해설』교육생 모집공고",
+    "date": "2026-10-12",
+    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=264952",
+    "tags": [
+      "건축",
+      "협회"
+    ]
+  },
+  {
+    "source": "대한건축사협회",
+    "category": "최신공지",
+    "title": "[공지사항] 제2차『3D 프린팅 기술로 바라보는 미래 건축의 가능성』교육생 모집공고",
+    "date": "2026-10-12",
+    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=264951",
+    "tags": [
+      "건축",
+      "협회"
+    ]
+  },
+  {
     "source": "국토교통부",
     "category": "법령·고시",
     "title": "도로구역 결정(변경) 및 지형도면 고시(강진-광주)",
@@ -162,6 +184,17 @@
     "tags": [
       "건설",
       "협회"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "9월중 전세사기피해자등 623건 추가 결정",
+    "date": "2026-10-08",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092490&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
     ]
   },
   {
@@ -833,17 +866,6 @@
     "tags": [
       "안전",
       "건설"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "사업에 맞는 공모방식 찾고 민간전문가 역할 넓힌다 설계공모 및 민간전문가 제도개선 토론회",
-    "date": "2026-09-28",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092463&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   },
   {
@@ -2175,28 +2197,6 @@
     "tags": [
       "안전",
       "건설"
-    ]
-  },
-  {
-    "source": "CSI",
-    "category": "안전",
-    "title": "원주시 건설사고조사위원회 조사보고서",
-    "date": "2026-08-06",
-    "url": "https://www.csi.go.kr/community/dataOnlyView.do?bbs_id=data&bbt_no=148670",
-    "tags": [
-      "안전",
-      "건설"
-    ]
-  },
-  {
-    "source": "대한건설협회",
-    "category": "최신공지",
-    "title": "[2026-3] 회원사 법정의무교육 협력기관 모집 공고",
-    "date": "2026-08-05",
-    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=159822",
-    "tags": [
-      "건설",
-      "협회"
     ]
   }
 ]
