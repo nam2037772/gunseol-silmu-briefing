@@ -1,6 +1,72 @@
 [
   {
     "source": "국토교통부",
+    "category": "법령·고시",
+    "title": "건축물관리지원센터 지정 고시",
+    "date": "2026-10-13",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270050&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "건설기술",
+    "title": "건설신기술 지정 신청(2830)",
+    "date": "2026-10-13",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270031&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "법령·고시",
+    "title": "자율주행자동차 시범운행지구 지정 고시",
+    "date": "2026-10-13",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270049&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "건설기술",
+    "title": "건설신기술 보호기간 연장(2819)",
+    "date": "2026-10-13",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270030&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "성남여수2 공공주택지구 전략환경영향평가항목등의 결정내용 공개",
+    "date": "2026-10-13",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270055&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "전세사기피해자등 결정에 대한 취소 또는 철회 처분사전통지 공시송달 공고",
+    "date": "2026-10-13",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270042&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "공공기관",
     "title": "항공전문의사 지정변경 및 지정취소 공고",
     "date": "2026-10-12",
@@ -38,6 +104,39 @@
     "title": "[공지사항] 제2차『3D 프린팅 기술로 바라보는 미래 건축의 가능성』교육생 모집공고",
     "date": "2026-10-12",
     "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=264951",
+    "tags": [
+      "건축",
+      "협회"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[참고] 청년주택드림 청약통장, 연 소득 7천만원까지 가입 문턱 낮춘다",
+    "date": "2026-10-12",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092491&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "불법하도급 자진신고기간 공고",
+    "date": "2026-10-12",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270080&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "대한건축사협회",
+    "category": "법령·고시",
+    "title": "[공지사항] 대한건축사협회 법률·제도 대응 주요성과",
+    "date": "2026-10-12",
+    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=264960",
     "tags": [
       "건축",
       "협회"
@@ -573,17 +672,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "공공기관",
-    "title": "공공개발용 토지비축사업계획 변경승인(대동-매리 도로사업용지 비축사업)",
-    "date": "2026-09-30",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269958&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "건설기술",
     "title": "건설신기술 지정 신청(2831)",
     "date": "2026-09-30",
@@ -595,32 +683,10 @@
   },
   {
     "source": "국토교통부",
-    "category": "공공기관",
-    "title": "공동주택가격 정정",
-    "date": "2026-09-30",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269599&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "건설기술",
     "title": "건설신기술 지정 신청(2826)",
     "date": "2026-09-30",
     "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269969&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "2026년도 국토교통부 혁신제품 지정기간 연장(2차 연장) 공고",
-    "date": "2026-09-30",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269999&mode=view&src=text&kw=000001",
     "tags": [
       "건설",
       "공공"
@@ -841,17 +907,6 @@
     "title": "인공지능(AI) 도시·스마트 도시 석·박사 인재 키울 대학 4곳 선정",
     "date": "2026-09-28",
     "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092460&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "모두의카드 출퇴근 시차시간 혜택 계속 이어간다",
-    "date": "2026-09-28",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092459&src=text&kw=000004",
     "tags": [
       "건설",
       "정책"
@@ -1815,17 +1870,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "법령·고시",
-    "title": "[참고] 「자율주행차법」 · 「화물자동차법」 · 「도로법」 · 「철도지하화통합개발법」 개정안 국회 본회의 통과",
-    "date": "2026-08-26",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092352&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
     "source": "대한건축사협회",
     "category": "최신공지",
     "title": "[공지사항] 제2차『건축사사무소에 필요한 구조교육』교육대상자 공고",
@@ -1889,17 +1933,6 @@
     "tags": [
       "건축",
       "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "법령·고시",
-    "title": "[참고] 고시원 내 욕조 설치 완화 규정, 국민 의견 수렴하여 재검토",
-    "date": "2026-08-21",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092331&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   },
   {
@@ -2090,17 +2123,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "건설기술",
-    "title": "건설신기술 보호기간 연장 신청(2808)",
-    "date": "2026-08-12",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269243&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
     "source": "대한건설협회",
     "category": "최신공지",
     "title": "2026 대한건설협회 전문가 채용 재공고",
@@ -2175,28 +2197,6 @@
     "tags": [
       "건설",
       "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "안전",
-    "title": "[참고] 국토교통부, 건설현장 폭염 안전 집중 점검",
-    "date": "2026-08-06",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092292&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "CSI",
-    "category": "안전",
-    "title": "건설현장 및 야외작업장 온열질환 예방을 위한 폭염 대비 핵심 안전수칙",
-    "date": "2026-08-06",
-    "url": "https://www.csi.go.kr/community/noticeOnlyView.do?bbs_id=noti&bbt_no=148669",
-    "tags": [
-      "안전",
-      "건설"
     ]
   }
 ]
