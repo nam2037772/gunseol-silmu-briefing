@@ -1,6 +1,94 @@
 [
   {
     "source": "국토교통부",
+    "category": "건설기술",
+    "title": "건설신기술 지정 신청(2823)",
+    "date": "2026-10-19",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270079&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "건설기술",
+    "title": "건설신기술 지정 신청(2837)",
+    "date": "2026-10-19",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270095&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "법령·고시",
+    "title": "도로구역 결정(변경) 및 지형도면 고시(고속국도 제104호 남해제2지선 13.1k)",
+    "date": "2026-10-19",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270082&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "법령·고시",
+    "title": "도로구역 결정(변경) 및 지형도면 고시(고속국도 제40호 평택제천선 14.3k)",
+    "date": "2026-10-19",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270081&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "건설기술",
+    "title": "건설신기술 지정 신청(2829)",
+    "date": "2026-10-19",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270078&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "완도-강진 고속도로 건설사업 전략환경영향평가서 초안에 대한 주민 등의 의견 수렴 결과 공개",
+    "date": "2026-10-19",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270155&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "법령·고시",
+    "title": "스마트물류센터 인증 취소 고시",
+    "date": "2026-10-19",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270103&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[참고] 강남 3구 중심 서울 집값 상승률 둔화, 공급 확대 등 시장안정 기반 강화에 총력",
+    "date": "2026-10-18",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092502&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "법령·고시",
     "title": "재난관리책임기관 지정 및 고시",
     "date": "2026-10-16",
@@ -638,17 +726,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "부동산투자회사 변경인가 공고(㈜엠프라퍼티제1호위탁관리부동산투자회사))",
-    "date": "2026-10-08",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270071&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
     "source": "대한건설협회",
     "category": "정책·제도",
     "title": "[26.10.08] 대한건설협회, 연세대서 '미래 건설인 타운홀 미팅' 개최",
@@ -932,17 +1009,6 @@
     "tags": [
       "건설",
       "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "‘도심 공공주택 복합사업’ 서울 11곳(1.8만호) 신규 후보지 선정",
-    "date": "2026-09-30",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092473&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   },
   {
@@ -1640,28 +1706,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "법령·고시",
-    "title": "서울 고은산 서측 도심 공공주택 복합지구의 지정 및 지형도면등의 고시",
-    "date": "2026-09-04",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269450&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "법령·고시",
-    "title": "서울 목4동 강서고 인근 도심 공공주택 복합지구의 지정 및 지형도면등의 고시",
-    "date": "2026-09-04",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269451&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "건설기술",
     "title": "건설신기술 보호기간 연장 신청(2817)",
     "date": "2026-09-04",
@@ -1713,17 +1757,6 @@
     "tags": [
       "건설",
       "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "법령·고시",
-    "title": "온산국가산업단지 개발계획(변경) 승인 고시",
-    "date": "2026-09-03",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269414&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
     ]
   },
   {
@@ -2046,17 +2079,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "건설기술",
-    "title": "건설신기술 지정 신청(2820)",
-    "date": "2026-08-20",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269302&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
     "source": "대한건축사협회",
     "category": "AI·디지털",
     "title": "[공지사항] 『건축사를 위한 AI 실무활용법』 3차 교육생 모집공고",
@@ -2120,28 +2142,6 @@
     "tags": [
       "건축",
       "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "건설기술",
-    "title": "건설신기술 지정(2764)",
-    "date": "2026-08-18",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269293&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "건설기술",
-    "title": "건설신기술 지정 신청(2804)",
-    "date": "2026-08-18",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269298&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
     ]
   },
   {
