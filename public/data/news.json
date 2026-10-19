@@ -1,6 +1,28 @@
 [
   {
     "source": "국토교통부",
+    "category": "공공기관",
+    "title": "제주김녕 공공주택지구 전략환경영향평가서(재협의) 초안에 대한 주민 등의 의견 수렴 결과 및 반영 여부 공개",
+    "date": "2026-10-20",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270127&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "스마트물류센터 인증 공고(2026년 제3호)",
+    "date": "2026-10-20",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270166&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "건설기술",
     "title": "건설신기술 지정 신청(2823)",
     "date": "2026-10-19",
@@ -96,6 +118,28 @@
     "tags": [
       "건설",
       "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "2026 한국건축문화대상 정부시상 후보자 공개검증(추가)",
+    "date": "2026-10-19",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270169&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "대한건축사협회",
+    "category": "최신공지",
+    "title": "[공지사항] 11월 15회차 「2026 건축물 해체공사 감리업무 신규교육」 모집 일정 및 교육 장소 변경 공고(서울)",
+    "date": "2026-10-19",
+    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=265064",
+    "tags": [
+      "건축",
+      "협회"
     ]
   },
   {
@@ -627,17 +671,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "고덕국제화계획지구 택지개발사업 개발계획(20차) 및 실시계획(18차) 변경 승인",
-    "date": "2026-10-12",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270012&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
     "source": "대한건축사협회",
     "category": "최신공지",
     "title": "[공지사항] 제3차『에너지 절약계획서 실무해설』교육생 모집공고",
@@ -671,17 +704,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "불법하도급 자진신고기간 공고",
-    "date": "2026-10-12",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270080&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
     "source": "대한건축사협회",
     "category": "법령·고시",
     "title": "[공지사항] 대한건축사협회 법률·제도 대응 주요성과",
@@ -698,17 +720,6 @@
     "title": "도로구역 결정(변경) 및 지형도면 고시(강진-광주)",
     "date": "2026-10-08",
     "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270002&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "철강구조물 제작공장 공장인증서 발급",
-    "date": "2026-10-08",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269987&mode=view&src=text&kw=000001",
     "tags": [
       "건설",
       "공공"
@@ -2185,17 +2196,6 @@
     "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=160099",
     "tags": [
       "건설",
-      "협회"
-    ]
-  },
-  {
-    "source": "대한건축사협회",
-    "category": "최신공지",
-    "title": "[공지사항] 교육시설 BF 인증 적용현황 및 개선요구 의견조사 설문 협조요청 (08.14(금) 까지)",
-    "date": "2026-08-13",
-    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=264148",
-    "tags": [
-      "건축",
       "협회"
     ]
   }
