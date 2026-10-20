@@ -44,6 +44,17 @@
     ]
   },
   {
+    "source": "대한건축사협회",
+    "category": "최신공지",
+    "title": "[공지사항] 직원채용 공고 안내",
+    "date": "2026-10-20",
+    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=265080",
+    "tags": [
+      "건축",
+      "협회"
+    ]
+  },
+  {
     "source": "국토교통부",
     "category": "건설기술",
     "title": "건설신기술 지정 신청(2823)",
@@ -2186,17 +2197,6 @@
     "tags": [
       "건설",
       "정책"
-    ]
-  },
-  {
-    "source": "대한건설협회",
-    "category": "안전",
-    "title": "건설현장 밀폐공간 질식사고 예방안내",
-    "date": "2026-08-13",
-    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=160099",
-    "tags": [
-      "건설",
-      "협회"
     ]
   }
 ]
