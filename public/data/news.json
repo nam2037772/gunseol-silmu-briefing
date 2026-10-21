@@ -1,5 +1,38 @@
 [
   {
+    "source": "대한건축사협회",
+    "category": "최신공지",
+    "title": "[공지사항] 「교육시설 사전기획 전문가 교육과정」11월 집합교육 실시안내",
+    "date": "2026-10-21",
+    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=265093",
+    "tags": [
+      "건축",
+      "협회"
+    ]
+  },
+  {
+    "source": "대한건축사협회",
+    "category": "최신공지",
+    "title": "[공지사항] 「교육시설 사전기획 전문가 교육과정」집합교육 실시에 따른 사이버교육 수강신청 일시종료 안내",
+    "date": "2026-10-21",
+    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=265092",
+    "tags": [
+      "건축",
+      "협회"
+    ]
+  },
+  {
+    "source": "대한건축사협회",
+    "category": "AI·디지털",
+    "title": "[공지사항] 제1차「REVIT을 활용한 BIM교육과정」교육대상자 공고",
+    "date": "2026-10-21",
+    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=265091",
+    "tags": [
+      "건축",
+      "협회"
+    ]
+  },
+  {
     "source": "국토교통부",
     "category": "공공기관",
     "title": "제주김녕 공공주택지구 전략환경영향평가서(재협의) 초안에 대한 주민 등의 의견 수렴 결과 및 반영 여부 공개",
@@ -2156,17 +2189,6 @@
     ]
   },
   {
-    "source": "대한건축사협회",
-    "category": "최신공지",
-    "title": "[공지사항] 건축사회관 8층 중회의실 회의용 마이크시스템 교체·설치공사 용역 업체선정 재입찰공고",
-    "date": "2026-08-18",
-    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=264181",
-    "tags": [
-      "건축",
-      "협회"
-    ]
-  },
-  {
     "source": "대한건설협회",
     "category": "최신공지",
     "title": "[파이낸셜뉴스] 2026 대한민국 국토대전 작품 공모",
@@ -2175,28 +2197,6 @@
     "tags": [
       "건설",
       "협회"
-    ]
-  },
-  {
-    "source": "대한건설협회",
-    "category": "정책·제도",
-    "title": "[26.08.14] 대한건설협회, 정부「주택 신속공급 방안」환영 입장",
-    "date": "2026-08-14",
-    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C12/A/2/view.do?article_seq=160151",
-    "tags": [
-      "건설",
-      "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "안전",
-    "title": "[참고] 서소문 고가차도 붕괴사고, 승인 없는 작업·위험 미보고 등 확인",
-    "date": "2026-08-14",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092308&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   }
 ]
