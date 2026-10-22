@@ -1,6 +1,39 @@
 [
   {
     "source": "국토교통부",
+    "category": "공공기관",
+    "title": "부동산투자회사 영업인가 공고((주)우리성남금토대토제1호위탁관리부동산투자회사)",
+    "date": "2026-10-23",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270153&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "화성동탄(2) 택지개발지구 개발계획(27차) 및 실시계획(28차) 변경 승인",
+    "date": "2026-10-23",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270011&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "법령·고시",
+    "title": "김해진례 공공지원민간임대주택 공급촉진지구 지정 변경(6차) 및 지구계획 변경(6차) 승인, 지형도면 등의 고시",
+    "date": "2026-10-23",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270165&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "건설기술",
     "title": "건설신기술 지정 신청(2832)",
     "date": "2026-10-22",
@@ -19,6 +52,39 @@
     "tags": [
       "건설",
       "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[참고] 국제교통포럼(ITF) 김영태 사무총장 3연임 가능성 열려",
+    "date": "2026-10-22",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092517&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "안전",
+    "title": "[설명] 지하안전평가 제도가 지반침하 사고예방에 더욱 기여하도록 지속 노력하겠습니다.",
+    "date": "2026-10-22",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092516&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "대한건설협회",
+    "category": "정책·제도",
+    "title": "[26.10.22] LH - 대한건설협회 주택공급 간담회 개최",
+    "date": "2026-10-22",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C12/A/2/view.do?article_seq=161952",
+    "tags": [
+      "건설",
+      "협회"
     ]
   },
   {
@@ -738,28 +804,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "공공기관",
-    "title": "2026 한국건축문화대상 정부시상 후보자 공개검증",
-    "date": "2026-10-14",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270093&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "호남고속철도 익산전철변전소 154kV 지중송전선로 이설 사업 실시계획 승인",
-    "date": "2026-10-14",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270040&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "정책·제도",
     "title": "[설명] ‘전세계약 5건 중 1건이 보증금 먹튀·바가지 의심’이라고 보는 것은 적절하지 않습니다.",
     "date": "2026-10-14",
@@ -1028,17 +1072,6 @@
     "title": "[해명] 부동산 공시가격 현실화율 연 1.5%p 조정은 검토하고 있지 않습니다.",
     "date": "2026-10-07",
     "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092487&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "택시업종 노동환경 실태, 노 · 사 · 정이 함께 살핀다",
-    "date": "2026-10-07",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092486&src=text&kw=000004",
     "tags": [
       "건설",
       "정책"
@@ -1537,17 +1570,6 @@
     "tags": [
       "건설",
       "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "법령·고시",
-    "title": "「건설산업기본법」, 「새만금사업법」시행령 개정안, 15일 국무회의 의결",
-    "date": "2026-09-15",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092424&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   },
   {
@@ -2174,28 +2196,6 @@
     "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=264238",
     "tags": [
       "건축",
-      "협회"
-    ]
-  },
-  {
-    "source": "대한건축사협회",
-    "category": "AI·디지털",
-    "title": "[공지사항] 『건축사를 위한 AI 실무활용법』 3차 교육생 모집공고",
-    "date": "2026-08-20",
-    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=264209",
-    "tags": [
-      "건축",
-      "협회"
-    ]
-  },
-  {
-    "source": "대한건설협회",
-    "category": "AI·디지털",
-    "title": "[26.08.19]「2026 스마트건설 청년인재 채용설명회」개최",
-    "date": "2026-08-19",
-    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C12/A/2/view.do?article_seq=160187",
-    "tags": [
-      "건설",
       "협회"
     ]
   }
