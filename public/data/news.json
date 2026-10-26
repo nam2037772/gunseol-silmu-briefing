@@ -67,6 +67,28 @@
   },
   {
     "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "국토부, 유엔해비타트와 개도국 국가도시정책 지원 지속",
+    "date": "2026-10-26",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092521&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "대한건축사협회",
+    "category": "AI·디지털",
+    "title": "[공지사항] 제6,7차『생성형 AI를 활용한 건축 디자인 크리에이티브(초중급)』교육생 모집공고",
+    "date": "2026-10-26",
+    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=265138",
+    "tags": [
+      "건축",
+      "협회"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "공공기관",
     "title": "부동산투자회사 영업인가 공고((주)우리성남금토대토제1호위탁관리부동산투자회사)",
     "date": "2026-10-23",
@@ -189,7 +211,7 @@
   {
     "source": "국토교통부",
     "category": "정책·제도",
-    "title": "3기 신도시 교통대책 ‘직접 인？허가’로 속도 높인다",
+    "title": "3기 신도시 교통대책 ‘직접 인·허가’로 속도 높인다",
     "date": "2026-10-23",
     "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092519&src=text&kw=000004",
     "tags": [
@@ -420,11 +442,22 @@
   {
     "source": "대한건축사협회",
     "category": "최신공지",
-    "title": "[공지사항] 2026「건축아카이브」류춘수 회장 초청 특별강연 실시 안내",
+    "title": "[공지사항] 2026「건축아카이브」류춘수 건축사 초청 특별강연 실시 안내",
     "date": "2026-10-21",
     "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=265095",
     "tags": [
       "건축",
+      "협회"
+    ]
+  },
+  {
+    "source": "대한건설협회",
+    "category": "정책·제도",
+    "title": "[26.10.21] 대한건설협회, ‘일간지 출입기자단 간담회’개최",
+    "date": "2026-10-21",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C12/A/2/view.do?article_seq=161994",
+    "tags": [
+      "건설",
       "협회"
     ]
   },
@@ -1009,17 +1042,6 @@
     "tags": [
       "건축",
       "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[참고] 청년주택드림 청약통장, 연 소득 7천만원까지 가입 문턱 낮춘다",
-    "date": "2026-10-12",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092491&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   },
   {
@@ -2175,28 +2197,6 @@
     "tags": [
       "건설",
       "정책"
-    ]
-  },
-  {
-    "source": "대한건축사협회",
-    "category": "최신공지",
-    "title": "[공지사항] 2026년도 제2회 건축사 자격시험 시험장소 공고",
-    "date": "2026-08-21",
-    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=264225",
-    "tags": [
-      "건축",
-      "협회"
-    ]
-  },
-  {
-    "source": "대한건축사협회",
-    "category": "AI·디지털",
-    "title": "[공지사항] AI시대의 건축도면정보 활용과 저작권 보호방안 정책토론회",
-    "date": "2026-08-21",
-    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=264238",
-    "tags": [
-      "건축",
-      "협회"
     ]
   }
 ]
