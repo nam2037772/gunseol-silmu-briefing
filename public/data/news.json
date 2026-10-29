@@ -56,6 +56,28 @@
   },
   {
     "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "전국 주택 직거래 및 서울·경기 아파트 거래 기획조사 결과···위법의심거래 678건 적발",
+    "date": "2026-10-29",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092535&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "수도권 ‘신규택지 10.4만호’ 신속 공급",
+    "date": "2026-10-29",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092536&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "공공기관",
     "title": "경남 우주항공 국가산업단지 산업단지계획 변경(9차)",
     "date": "2026-10-28",
@@ -137,6 +159,17 @@
     "title": "[참고] 정부는 구룡마을 이재민분들의 주거안정을 위해 적극 지원해 나가겠습니다.",
     "date": "2026-10-28",
     "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092533&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "2026 코리아 튜닝카 페스티벌 열린다",
+    "date": "2026-10-28",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092534&src=text&kw=000004",
     "tags": [
       "건설",
       "정책"
@@ -239,6 +272,17 @@
     "tags": [
       "건설",
       "공공"
+    ]
+  },
+  {
+    "source": "대한건설협회",
+    "category": "안전",
+    "title": "「산업안전보건법」 개정('26.10.27 공포, '27.4.28 시행) 안내",
+    "date": "2026-10-27",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=162049",
+    "tags": [
+      "건설",
+      "협회"
     ]
   },
   {
@@ -726,28 +770,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "밤에도 산불 끄는 드론, 도로 공사장 지키는 로봇 실증한다",
-    "date": "2026-10-20",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092506&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "서울 동자동 쪽방촌 공공주택지구 지정, 도심 속 2,150호 규모의 주택공급 추진",
-    "date": "2026-10-20",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092505&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
     "source": "대한건축사협회",
     "category": "최신공지",
     "title": "[공지사항] 직원채용 공고 안내",
@@ -764,17 +786,6 @@
     "title": "[설명] ‘6개월 낭비’ 주장은 사실과 다르며, 안전 검증 후 조속히 결정할 계획입니다.",
     "date": "2026-10-20",
     "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092509&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[차관동정] 김이탁 제1차관, “로봇의 건설현장 확산으로 혁신 앞당길 것”",
-    "date": "2026-10-20",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092508&src=text&kw=000004",
     "tags": [
       "건설",
       "정책"
@@ -2186,17 +2197,6 @@
     "tags": [
       "건축",
       "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "안전",
-    "title": "페달 오조작 사고 막는다! 페달 오조작 방지장치 튜닝부품 인증기준 마련",
-    "date": "2026-08-26",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092345&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   }
 ]
