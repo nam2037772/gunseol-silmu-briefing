@@ -34,6 +34,61 @@
   },
   {
     "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "11월 12일부터 다세대·다가구주택 면적 제한 1,000㎡로 완화",
+    "date": "2026-11-03",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092553&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "서울-양평 고속도로 신규 타당성조사 착수",
+    "date": "2026-11-03",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092552&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "안전",
+    "title": "GTX 삼성역 안전 확보 방안, 안전 최우선으로 검증 거쳐 연내 결정",
+    "date": "2026-11-03",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092551&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "AI·디지털",
+    "title": "인공지능(AI)과 공간정보가 바꿀 미래 11월 4일 킨텍스에서 만나세요",
+    "date": "2026-11-03",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092550&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "자동차관리법에 따른 기계·기구 정밀도 검사 업무 위탁계약 체결현황 공개",
+    "date": "2026-11-03",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270320&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "법령·고시",
     "title": "경부선 상동∼밀양간 밀양강교 교량개량공사 준공고시",
     "date": "2026-11-02",
@@ -715,17 +770,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[설명] 주택구입 자금조달 구성 변화는 갭투자 감소 등에 따른 것입니다.",
-    "date": "2026-10-26",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092523&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
     "source": "대한건축사협회",
     "category": "최신공지",
     "title": "[공지사항] 2026년「공사감리 전문교육」11월 집합교육(건축사) 교육생 모집 안내",
@@ -745,17 +789,6 @@
     "tags": [
       "안전",
       "건설"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "‘26년 노후 산업단지 재생사업 공모 착수",
-    "date": "2026-10-26",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092522&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   },
   {
@@ -797,17 +830,6 @@
     "title": "도로열선시스템 설치 및 관리요령(안)",
     "date": "2026-10-23",
     "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270198&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "부동산투자회사 등록 신청사실 공고(㈜하나하우징상계위탁관리부동산투자회사)",
-    "date": "2026-10-23",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270202&mode=view&src=text&kw=000001",
     "tags": [
       "건설",
       "공공"
@@ -2172,28 +2194,6 @@
     "title": "항공업계, ‘25년 안전에 13.3조원 투자",
     "date": "2026-09-01",
     "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092369&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "안전",
-    "title": "코레일-에스알 9월 1일 하나로... 안전 최우선, 더 편리한 고속철도의 시작",
-    "date": "2026-08-31",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092365&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "안전",
-    "title": "[차관동정] 홍지선 제2차관, “철저한 사고원인 조사를 통해 근본적 재발방지 대책을 마련할 것“",
-    "date": "2026-08-29",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092364&src=text&kw=000004",
     "tags": [
       "건설",
       "정책"
