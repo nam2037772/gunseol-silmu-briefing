@@ -2,6 +2,28 @@
   {
     "source": "국토교통부",
     "category": "공공기관",
+    "title": "부동산투자회사 변경인가 공고(㈜코람코인천레지던스위탁관리부동산투자회사))",
+    "date": "2026-11-05",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270264&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "공업화주택 인정 공고",
+    "date": "2026-11-05",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270162&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
     "title": "서울양재 공공주택지구 전략환경영향평가서 초안에 대한 주민 등의 의견 수렴 결과 및 반영 여부 공개",
     "date": "2026-11-04",
     "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270296&mode=view&src=text&kw=000001",
@@ -85,6 +107,39 @@
     "tags": [
       "안전",
       "건설"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[설명] 정부는 착공 실적과 실제 공사 착수 간 시차를 최소화하기 위해 철저히 관리해 나가겠습니다.",
+    "date": "2026-11-04",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092560&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "AI·디지털",
+    "title": "이 땅에 집 지을 수 있나요? “복잡한 인허가, 인공지능(AI)으로 쉽게”",
+    "date": "2026-11-04",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092555&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "대한건설협회",
+    "category": "안전",
+    "title": "[국토안전관리원] 2026년 하반기 찾아가는 건설안전 설명회 개최 안내",
+    "date": "2026-11-04",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=162285",
+    "tags": [
+      "건설",
+      "협회"
     ]
   },
   {
@@ -760,17 +815,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[차관동정] 김이탁 제1차관,모듈러주택 활성화를 위한 협의체 개최",
-    "date": "2026-10-27",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092528&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "안전",
     "title": "내 건물 안전하고 쾌적하게, 내가 점검한다!",
     "date": "2026-10-27",
@@ -789,28 +833,6 @@
     "tags": [
       "건설",
       "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "성남금토2 공공주택지구 전략환경영향평가서 초안 설명회 생략 및 공청회 개최 공고",
-    "date": "2026-10-26",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270185&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "안양매곡 공공주택지구 지구계획 변경(2차) 승인",
-    "date": "2026-10-26",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270164&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
     ]
   },
   {
@@ -2175,28 +2197,6 @@
     "tags": [
       "건축",
       "협회"
-    ]
-  },
-  {
-    "source": "CSI",
-    "category": "안전",
-    "title": "시스템 작업 안내(2026-09-02 18:00 ~ 19:00)",
-    "date": "2026-09-02",
-    "url": "https://www.csi.go.kr/community/noticeOnlyView.do?bbs_id=noti&bbt_no=148892",
-    "tags": [
-      "안전",
-      "건설"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "안전",
-    "title": "[설명] 국토부는 삼성역 구간 시공 오류에 대해 국민 안전을 최우선으로 조치하겠습니다",
-    "date": "2026-09-02",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092376&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   }
 ]
