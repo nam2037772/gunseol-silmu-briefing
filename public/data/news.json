@@ -56,6 +56,72 @@
   },
   {
     "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "도심항공교통(UAM) 실증, 기술검증 넘어 지역 상용화로 확대",
+    "date": "2026-11-09",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092573&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "전세사기피해자 최소보장제 시행, 10일부터 최소지원금 신청하세요!",
+    "date": "2026-11-09",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092572&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[참고] 가덕도신공항 부지조성공사 실시설계 착수",
+    "date": "2026-11-09",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092575&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "건설기술",
+    "title": "건설신기술 지정(2770)",
+    "date": "2026-11-09",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270311&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "대한건축사협회",
+    "category": "최신공지",
+    "title": "[공지사항] 제3차『BF인증 평가도서 작성방법』교육생 모집공고",
+    "date": "2026-11-09",
+    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=265358",
+    "tags": [
+      "건축",
+      "협회"
+    ]
+  },
+  {
+    "source": "CSI",
+    "category": "안전",
+    "title": "&apos;26년 3차 DfS 인사이트 설명회(수도권역) 개최 안내",
+    "date": "2026-11-09",
+    "url": "https://www.csi.go.kr/community/noticeOnlyView.do?bbs_id=noti&bbt_no=149506",
+    "tags": [
+      "안전",
+      "건설"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "공공기관",
     "title": "새로운 대한민국의 내일을 잇는 철도 대전환 대국민 의견수렴",
     "date": "2026-11-08",
@@ -781,17 +847,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[설명] 정부는 신규택지 7.67만호 추진 관련 교통개선을 위해 적극 노력하겠습니다.",
-    "date": "2026-10-30",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092545&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
     "source": "대한건설협회",
     "category": "최신공지",
     "title": "[2026-7] 2027년 대한건설협회 건설수첩 및 달력(2종) 제작 입찰 공고(긴급)",
@@ -811,28 +866,6 @@
     "tags": [
       "건설",
       "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "전국 주택 직거래 및 서울·경기 아파트 거래 기획조사 결과···위법의심거래 678건 적발",
-    "date": "2026-10-29",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092535&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "수도권 ‘신규택지 10.4만호’ 신속 공급",
-    "date": "2026-10-29",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092536&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   },
   {
@@ -2134,17 +2167,6 @@
     ]
   },
   {
-    "source": "대한건축사협회",
-    "category": "최신공지",
-    "title": "[공지사항] 제2차『BF인증의 이해와 적용사례』교육생 모집공고",
-    "date": "2026-09-07",
-    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=264442",
-    "tags": [
-      "건축",
-      "협회"
-    ]
-  },
-  {
     "source": "국토교통부",
     "category": "건설기술",
     "title": "건설신기술 보호기간 연장 신청(2817)",
@@ -2175,28 +2197,6 @@
     "tags": [
       "건설",
       "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "AI·디지털",
-    "title": "자율주행·AI 등 첨단 모빌리티, 국민의 일상으로 ‘2026 글로벌 모빌리티 콘퍼런스’ 개막",
-    "date": "2026-09-04",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092382&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "대한건설협회",
-    "category": "최신공지",
-    "title": "2026년 4회차 건설업 신규 외국인력 고용허가서 신청 안내",
-    "date": "2026-09-03",
-    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=160700",
-    "tags": [
-      "건설",
-      "협회"
     ]
   }
 ]
