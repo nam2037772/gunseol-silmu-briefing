@@ -1,6 +1,17 @@
 [
   {
     "source": "국토교통부",
+    "category": "공공기관",
+    "title": "여수국가산업단지 산업단지계획 변경(여수에코에너지(주) 집단에너지공급시설(열병합발전소) 부지 조성사업)",
+    "date": "2026-11-11",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270339&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "건설기술",
     "title": "건설신기술 지정(2716)",
     "date": "2026-11-10",
@@ -178,7 +189,7 @@
   {
     "source": "대한건축사협회",
     "category": "최신공지",
-    "title": "[공지사항] 2026년도 국가기술자격 대여 일제단속 관련 협조 요청",
+    "title": "[공지사항] 국가기술자격증 대여 단속 및 자진 신고 안내",
     "date": "2026-11-10",
     "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=265383",
     "tags": [
@@ -195,6 +206,83 @@
     "tags": [
       "건축",
       "협회"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "법령·고시",
+    "title": "[설명] 남산 케이블카 독점 해소를 이행 중이며, 시행령 개정은 신중한 검토가 필요합니다.",
+    "date": "2026-11-10",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092586&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[해명] 「제5차 국가철도망 구축계획(‘26~’35)」은 아직 확정되지 않았습니다.",
+    "date": "2026-11-10",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092585&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[설명] 민간 정비사업 용적률 특례의 추진 여부와 적용 방식 등은 확정된 바 없습니다.",
+    "date": "2026-11-10",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092584&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[차관동정] 정의경 제2차관, “수도권 서부지역 교통난 해소, 철도·도로사업 조기 완공에 속도 내야”",
+    "date": "2026-11-10",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092583&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[참고] 행복주택 공실 해소를 위해 적극 노력해 나가겠습니다.",
+    "date": "2026-11-10",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092582&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "부동산투자회사 영업인가 신청사실 공고( ㈜반도하나제1호위탁관리부동산투자회사)",
+    "date": "2026-11-10",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270385&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "CSI",
+    "category": "안전",
+    "title": "2026 국토안전관리원 가치체계 공유도 2차 조사",
+    "date": "2026-11-10",
+    "url": "https://www.csi.go.kr/community/noticeOnlyView.do?bbs_id=noti&bbt_no=149524",
+    "tags": [
+      "안전",
+      "건설"
     ]
   },
   {
@@ -672,28 +760,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "공공기관",
-    "title": "공공주택건설 사업계획 변경승인(시흥거모 A-7BL)",
-    "date": "2026-11-04",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270254&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "화성동탄지구 택지개발사업 개발계획(25차) 및 실시계획(23차) 변경",
-    "date": "2026-11-04",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270240&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "정책·제도",
     "title": "분양가의 25%로 입주하는 LH 공공분양주택, 금년 12월 고양창릉서 첫 분양",
     "date": "2026-11-04",
@@ -793,28 +859,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "11월 12일부터 다세대·다가구주택 면적 제한 1,000㎡로 완화",
-    "date": "2026-11-03",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092553&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "서울-양평 고속도로 신규 타당성조사 착수",
-    "date": "2026-11-03",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092552&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "안전",
     "title": "GTX 삼성역 안전 확보 방안, 안전 최우선으로 검증 거쳐 연내 결정",
     "date": "2026-11-03",
@@ -830,17 +874,6 @@
     "title": "인공지능(AI)과 공간정보가 바꿀 미래 11월 4일 킨텍스에서 만나세요",
     "date": "2026-11-03",
     "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092550&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[설명] 휴게소 운영 구조 개편은 국민 체감 서비스 개선을 목표로 일관되게 추진하고 있습니다.",
-    "date": "2026-11-03",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092554&src=text&kw=000004",
     "tags": [
       "건설",
       "정책"
@@ -866,17 +899,6 @@
     "tags": [
       "건설",
       "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "「2026 해외건설 플랜트의 날」 기념식 “세계를 넘어 미래를 짓는 K-건설 시대 열릴 것”",
-    "date": "2026-11-02",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092546&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   },
   {
@@ -1606,17 +1628,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "법령·고시",
-    "title": "도로구역 결정(변경) 및 지형도면 고시(안성-구리 10-14공구)",
-    "date": "2026-10-08",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270003&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
     "source": "대한건설협회",
     "category": "정책·제도",
     "title": "[26.10.08] 대한건설협회, 연세대서 '미래 건설인 타운홀 미팅' 개최",
@@ -2186,17 +2197,6 @@
     "tags": [
       "건설",
       "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "AI·디지털",
-    "title": "K-AI 시티 실행전략을 소개합니다.",
-    "date": "2026-09-09",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269561&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
     ]
   }
 ]
