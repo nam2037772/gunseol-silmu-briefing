@@ -1,6 +1,28 @@
 [
   {
     "source": "국토교통부",
+    "category": "건설기술",
+    "title": "건설신기술 지정 신청(2839)",
+    "date": "2026-11-12",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270353&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "서울서리풀1 환경영향평가서 초안 및 기후변화영향평가서 초안에 대한 주민 등의 의견 수렴 결과 및 반영 여부 공개",
+    "date": "2026-11-12",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270407&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "공공기관",
     "title": "여수국가산업단지 산업단지계획 변경(여수에코에너지(주) 집단에너지공급시설(열병합발전소) 부지 조성사업)",
     "date": "2026-11-11",
@@ -30,6 +52,39 @@
     "tags": [
       "건축",
       "협회"
+    ]
+  },
+  {
+    "source": "CSI",
+    "category": "안전",
+    "title": "시스템 작업 안내(2026-11-11, 18:00 ~ 20:00)",
+    "date": "2026-11-11",
+    "url": "https://www.csi.go.kr/community/noticeOnlyView.do?bbs_id=noti&bbt_no=149389",
+    "tags": [
+      "안전",
+      "건설"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[장관동정] 홍지선 장관, 공공·민간 협력으로 2030 착공목표 차질 없이 추진",
+    "date": "2026-11-11",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092587&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "프로젝트 부동산투자회사 설립신고 수리 공고(㈜퍼시픽피치프로젝트위탁관리부동산투자회사)",
+    "date": "2026-11-11",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270409&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
     ]
   },
   {
@@ -771,28 +826,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "공공기관",
-    "title": "서울양재 공공주택지구 전략환경영향평가서 초안에 대한 주민 등의 의견 수렴 결과 및 반영 여부 공개",
-    "date": "2026-11-04",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270296&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "공공주택건설 사업계획 변경승인(남양주왕숙2 A-6BL)",
-    "date": "2026-11-04",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270257&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "정책·제도",
     "title": "분양가의 25%로 입주하는 LH 공공분양주택, 금년 12월 고양창릉서 첫 분양",
     "date": "2026-11-04",
@@ -833,17 +866,6 @@
     "tags": [
       "안전",
       "건설"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[설명] 정부는 착공 실적과 실제 공사 착수 간 시차를 최소화하기 위해 철저히 관리해 나가겠습니다.",
-    "date": "2026-11-04",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092560&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   },
   {
@@ -1064,17 +1086,6 @@
     "tags": [
       "건설",
       "정책"
-    ]
-  },
-  {
-    "source": "CSI",
-    "category": "안전",
-    "title": "시스템 작업 안내(2026-10-28, 18:00 ~ 익일 02:30)",
-    "date": "2026-10-28",
-    "url": "https://www.csi.go.kr/community/noticeOnlyView.do?bbs_id=noti&bbt_no=149389",
-    "tags": [
-      "안전",
-      "건설"
     ]
   },
   {
@@ -2186,17 +2197,6 @@
     "tags": [
       "안전",
       "건설"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "건설기술",
-    "title": "건설신기술 지정 신청(2814)",
-    "date": "2026-09-09",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269510&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
     ]
   }
 ]
