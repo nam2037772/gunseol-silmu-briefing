@@ -1,6 +1,17 @@
 [
   {
     "source": "국토교통부",
+    "category": "공공기관",
+    "title": "자동차 제작결함 시정명령 공시송달 공고",
+    "date": "2026-11-17",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270391&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "건설기술",
     "title": "건설신기술 지정(2792)",
     "date": "2026-11-16",
@@ -112,9 +123,64 @@
   {
     "source": "대한건축사협회",
     "category": "최신공지",
-    "title": "[공지사항] 2026 한반도건축위원회 세마니 [제10회] 「북한 도시·건축의 미래와 새로운 가능성」 개최안내",
+    "title": "[공지사항] 2026 한반도건축위원회 세미나 [제10회] 「북한 도시·건축의 미래와 새로운 가능성」 개최안내",
     "date": "2026-11-16",
     "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=265457",
+    "tags": [
+      "건축",
+      "협회"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[설명] 국토부는 3기 신도시 교통대책을 차질없이 추진하기 위해 총력을 다하고 있습니다",
+    "date": "2026-11-16",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092606&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[장관동정] 홍지선 장관, 국내 최대 모듈러 공공주택 현장 점검… “‘30년까지 2만호로 확대”",
+    "date": "2026-11-16",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092605&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "안전",
+    "title": "국토부, 반복되는 철도사고·운행장애 예방에 관계기관 및 전문가 역량 결집",
+    "date": "2026-11-16",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092603&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "부동산투자회사 영업인가 신청사실 공고( ㈜명품대한제67호위탁관리부동산투자회사)",
+    "date": "2026-11-16",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270448&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "대한건축사협회",
+    "category": "AI·디지털",
+    "title": "[공지사항] 2027 SketchUp 및 Chaos AI 건축디자인 워크플로우 특별세미나 개최 안내",
+    "date": "2026-11-16",
+    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=265472",
     "tags": [
       "건축",
       "협회"
@@ -870,39 +936,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "공공기관",
-    "title": "행정처분 사전통지 및 청문실시 알림",
-    "date": "2026-11-09",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270321&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "도심항공교통(UAM) 실증, 기술검증 넘어 지역 상용화로 확대",
-    "date": "2026-11-09",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092573&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "전세사기피해자 최소보장제 시행, 10일부터 최소지원금 신청하세요!",
-    "date": "2026-11-09",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092572&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "건설기술",
     "title": "건설신기술 지정(2770)",
     "date": "2026-11-09",
@@ -932,17 +965,6 @@
     "tags": [
       "안전",
       "건설"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "제46회 항공의 날 기념 대국민 퀴즈 이벤트 당첨자 발표",
-    "date": "2026-11-09",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270369&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
     ]
   },
   {
@@ -2172,28 +2194,6 @@
     "title": "[참고] 경전선 화물열차 탈선 사고 대응에 만전을 기하고 있습니다.",
     "date": "2026-09-13",
     "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092418&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "대한건설협회",
-    "category": "안전",
-    "title": "달비계 작업 안전 관리 요청",
-    "date": "2026-09-11",
-    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=160993",
-    "tags": [
-      "건설",
-      "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "AI·디지털",
-    "title": "‘제6회 디지털 지적의 날’ 개최, AI 등 신기술을 활용한 디지털 지적의 미래 모색",
-    "date": "2026-09-11",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092415&src=text&kw=000004",
     "tags": [
       "건설",
       "정책"
