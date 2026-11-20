@@ -45,6 +45,39 @@
   },
   {
     "source": "국토교통부",
+    "category": "안전",
+    "title": "[장관동정] 홍지선 장관, “겨울철 국민 안전 최우선… 비상대응체계 확립”",
+    "date": "2026-11-20",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092624&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "대한건설협회",
+    "category": "최신공지",
+    "title": "건설산업 80주년 기념 메인 슬로건 및 엠블럼 선호도 조사 기간연장 안내",
+    "date": "2026-11-20",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=162889",
+    "tags": [
+      "건설",
+      "협회"
+    ]
+  },
+  {
+    "source": "CSI",
+    "category": "안전",
+    "title": "사고사례 서비스 일시중지 안내",
+    "date": "2026-11-20",
+    "url": "https://www.csi.go.kr/community/noticeOnlyView.do?bbs_id=noti&bbt_no=149618",
+    "tags": [
+      "안전",
+      "건설"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "공공기관",
     "title": "민간자격 등록폐지 공고",
     "date": "2026-11-19",
@@ -2164,39 +2197,6 @@
     "tags": [
       "건설",
       "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "AI·디지털",
-    "title": "APEC 교통장관회의서 AI·스마트 모빌리티 미래협력 제안 나선다",
-    "date": "2026-09-22",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092447&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "건설기술",
-    "title": "우수 물류신기술등 연장 신청 공고(물류-20)",
-    "date": "2026-09-21",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269904&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "CSI",
-    "category": "안전",
-    "title": "2026년 2차 「현장 맞춤형 스마트 안전장비 지원사업」 현장선정 결과 공고",
-    "date": "2026-09-21",
-    "url": "https://www.csi.go.kr/community/noticeOnlyView.do?bbs_id=noti&bbt_no=149072",
-    "tags": [
-      "안전",
-      "건설"
     ]
   }
 ]
