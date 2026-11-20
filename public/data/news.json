@@ -78,6 +78,72 @@
   },
   {
     "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[설명] 국토부는 주거취약계층을 위한 임대주택을 충분히 공급할 예정입니다.",
+    "date": "2026-11-20",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092628&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[참고] ’27년 부동산 공시가격 시세반영률은 전년 수준 유지",
+    "date": "2026-11-20",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092627&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[참고] 테슬라 FSD 특례 신청, 자료 보완 필요",
+    "date": "2026-11-20",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092625&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "대한건설협회",
+    "category": "최신공지",
+    "title": "[2026-8] 2027년도 시공능력평가 교재 외 2종 제작 및 배송(긴급)",
+    "date": "2026-11-20",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=162922",
+    "tags": [
+      "건설",
+      "협회"
+    ]
+  },
+  {
+    "source": "대한건설협회",
+    "category": "정책·제도",
+    "title": "[26.11.20] 대한건설협회, 국회에 도시철도 건설용역에 대한 부가세 영세율 적용 기한 연장 건의",
+    "date": "2026-11-20",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C12/A/2/view.do?article_seq=162926",
+    "tags": [
+      "건설",
+      "협회"
+    ]
+  },
+  {
+    "source": "CSI",
+    "category": "안전",
+    "title": "건설사고 신고 관련 개인정보 유출 사실 안내 및 사과 말씀",
+    "date": "2026-11-20",
+    "url": "https://www.csi.go.kr/community/noticeOnlyView.do?bbs_id=noti&bbt_no=149620",
+    "tags": [
+      "안전",
+      "건설"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "공공기관",
     "title": "민간자격 등록폐지 공고",
     "date": "2026-11-19",
@@ -880,28 +946,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "김용석 대광위원장,고양창릉 광역교통개선대책 추진상황 점검",
-    "date": "2026-11-12",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092593&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[참고] 진에어-에어서울-에어부산 합병 인가, 27년 3월 17일부터 진에어로 통합 예정",
-    "date": "2026-11-12",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092591&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
     "source": "대한건설협회",
     "category": "법령·고시",
     "title": "산업안전보건법령에 따른 안전보건공시제 설명회 안내",
@@ -910,17 +954,6 @@
     "tags": [
       "건설",
       "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "물류기업과 기술기업이 만나는 ‘협업의 장’ 열린다",
-    "date": "2026-11-12",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092592&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   },
   {
@@ -2164,39 +2197,6 @@
     "tags": [
       "안전",
       "건설"
-    ]
-  },
-  {
-    "source": "대한건축사협회",
-    "category": "최신공지",
-    "title": "[공지사항] 2026 한국건축산업대전 연계 건축사 실무교육 실시 안내",
-    "date": "2026-09-23",
-    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=264729",
-    "tags": [
-      "건축",
-      "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "안전",
-    "title": "[장관동정] 추석 귀성길 안전·편의 빈틈없도록 … 주요 교통현장 집중 점검",
-    "date": "2026-09-23",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092458&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "안전",
-    "title": "[설명] 국토교통부는 국민 안전을 최우선으로 조속히 대안을 결정할 계획입니다.",
-    "date": "2026-09-23",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092457&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
     ]
   }
 ]
