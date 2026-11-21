@@ -1,6 +1,17 @@
 [
   {
     "source": "국토교통부",
+    "category": "안전",
+    "title": "[참고] 경부선 소정리역 화물열차 탈선 사고 대응에 만전을 기하고 있습니다.",
+    "date": "2026-11-21",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092629&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "공공기관",
     "title": "경상북도 영천 미래형 첨단복합도시 투자선도지구 지정 (변경)",
     "date": "2026-11-20",
@@ -2186,17 +2197,6 @@
     "tags": [
       "건설",
       "정책"
-    ]
-  },
-  {
-    "source": "CSI",
-    "category": "안전",
-    "title": "광주도서관 건립공사 붕괴사고 사고조사 보고서",
-    "date": "2026-09-28",
-    "url": "https://www.csi.go.kr/community/dataOnlyView.do?bbs_id=data&bbt_no=149107",
-    "tags": [
-      "안전",
-      "건설"
     ]
   }
 ]
