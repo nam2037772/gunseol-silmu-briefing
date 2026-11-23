@@ -1,6 +1,61 @@
 [
   {
     "source": "국토교통부",
+    "category": "건설기술",
+    "title": "건설신기술 지정(2792)",
+    "date": "2026-11-24",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270335&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "태안-안성 고속도로 민간투자사업 전략환경영향평가 및 기후변화영향평가 평가항목 등의 결정내용 공개",
+    "date": "2026-11-24",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270518&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "건설기술",
+    "title": "건설신기술 지정 신청(2849)",
+    "date": "2026-11-24",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270455&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "법령·고시",
+    "title": "토지세목조서 변경 고시(서울 영등포 공공주택지구)",
+    "date": "2026-11-24",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270500&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "법령·고시",
+    "title": "국토교통 가명정보 결합전문기관 재지정/지정취소 고시",
+    "date": "2026-11-24",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270426&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "정책·제도",
     "title": "한국형 위성항법시스템(KPS), 본격 제작·조립·시험 절차 돌입",
     "date": "2026-11-23",
@@ -19,6 +74,72 @@
     "tags": [
       "건설",
       "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "AI·디지털",
+    "title": "인공지능(AI)과 로봇이 바꾸는 건설 현장, 안전하고 더 스마트한 미래를 열다",
+    "date": "2026-11-23",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092634&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "[설명] 공공기관 지방 이전의 구체적인 내용은 확정된 바 없습니다",
+    "date": "2026-11-23",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092636&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "안전",
+    "title": "[설명] 국토교통부는 철도안전을 최우선으로 사고·운행장애 최소화에 지속 노력하겠습니다.",
+    "date": "2026-11-23",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092635&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "자산관리회사 변경인가 공고(에이알에이코리아(주))",
+    "date": "2026-11-23",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270555&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "자산관리회사 변경인가 공고(인천도시공사)",
+    "date": "2026-11-23",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270554&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "부동산투자회사 변경인가 신청사실 공고((주)코크렙제75호위탁관리부동산투자회사)",
+    "date": "2026-11-23",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270552&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
     ]
   },
   {
@@ -519,17 +640,6 @@
   {
     "source": "국토교통부",
     "category": "건설기술",
-    "title": "건설신기술 지정(2792)",
-    "date": "2026-11-16",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270335&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "건설기술",
     "title": "건설신기술 보호기간 연장(2802)",
     "date": "2026-11-16",
     "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270389&mode=view&src=text&kw=000001",
@@ -870,17 +980,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "[장관동정] 홍지선 장관, “교통산업의 지속적 성장을 위해 지원 아끼지 않을 것”",
-    "date": "2026-11-13",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092597&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "공공기관",
     "title": "부동산투자회사 등록 공고(㈜코람코프라임에셋제2호위탁관리자부동산투자회사)",
     "date": "2026-11-13",
@@ -946,28 +1045,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "서울서리풀1 환경영향평가서 초안 및 기후변화영향평가서 초안에 대한 주민 등의 의견 수렴 결과 및 반영 여부 공개",
-    "date": "2026-11-12",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270407&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "국가기술자격증 대여단속 및 자진신고 안내",
-    "date": "2026-11-12",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270411&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
     "source": "대한건축사협회",
     "category": "최신공지",
     "title": "[공지사항] 대한건축사협회 제35대 회장선거 예비후보자 공고",
@@ -987,17 +1064,6 @@
     "tags": [
       "건설",
       "협회"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "여수국가산업단지 산업단지계획 변경(여수에코에너지(주) 집단에너지공급시설(열병합발전소) 부지 조성사업)",
-    "date": "2026-11-11",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270339&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
     ]
   },
   {
@@ -1031,17 +1097,6 @@
     "tags": [
       "안전",
       "건설"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "프로젝트 부동산투자회사 설립신고 수리 공고(㈜퍼시픽피치프로젝트위탁관리부동산투자회사)",
-    "date": "2026-11-11",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270409&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
     ]
   },
   {
@@ -1903,28 +1958,6 @@
     ]
   },
   {
-    "source": "국토교통부",
-    "category": "법령·고시",
-    "title": "한국산업표준 폐지 예고 고시",
-    "date": "2026-10-15",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270068&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "법령·고시",
-    "title": "한국산업표준 제정 예고 고시",
-    "date": "2026-10-15",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270067&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
     "source": "대한건축사협회",
     "category": "최신공지",
     "title": "[공지사항] [대한건축사협회 선거관리위원회] 제35대 회장선거 후보자 공통질의사항 공모",
@@ -2164,39 +2197,6 @@
     "tags": [
       "건설",
       "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "안전",
-    "title": "[참고] 서소문고가 철거공사 붕괴사고, 건설사고조사위원회 조사기간 연장",
-    "date": "2026-09-29",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092470&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "건설기술",
-    "title": "건설신기술 보호기간 연장(2796)",
-    "date": "2026-09-28",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=269885&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "대한건설협회",
-    "category": "정책·제도",
-    "title": "국가계약 분쟁조정제도 설명회 개최 안내",
-    "date": "2026-09-28",
-    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=161392",
-    "tags": [
-      "건설",
-      "협회"
     ]
   }
 ]
