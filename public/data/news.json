@@ -1,6 +1,50 @@
 [
   {
     "source": "국토교통부",
+    "category": "법령·고시",
+    "title": "도로구역 결정(변경) 고시(토지세목고시)[고속국도 제29호 세종포천선(세종-안성) 건설공사]",
+    "date": "2026-11-27",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270449&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "건설기술",
+    "title": "건설신기술 지정 신청(2838)",
+    "date": "2026-11-27",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270538&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "법령·고시",
+    "title": "도로구역 결정(변경) 고시(파주-양주)",
+    "date": "2026-11-27",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270517&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "법령·고시",
+    "title": "제3종시설물의 지정(해제) 고시",
+    "date": "2026-11-27",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270528&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "국토교통부",
     "category": "공공기관",
     "title": "화성-안성 고속도로 민간투자사업 전략환경영향평가서 초안(기후변화영향평가서 초안 포함) 공람 및 설명회 개최",
     "date": "2026-11-26",
@@ -63,6 +107,39 @@
     "tags": [
       "건설",
       "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "정책·제도",
+    "title": "‘26년 전세사기 기획조사 실시 결과 전세사기 의심 88건 적발… 22명 수사의뢰",
+    "date": "2026-11-26",
+    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092651&src=text&kw=000004",
+    "tags": [
+      "건설",
+      "정책"
+    ]
+  },
+  {
+    "source": "국토교통부",
+    "category": "공공기관",
+    "title": "2026년 제4차 국립도시건축박물관 공개구입 예정자료 화상 공개",
+    "date": "2026-11-26",
+    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270592&mode=view&src=text&kw=000001",
+    "tags": [
+      "건설",
+      "공공"
+    ]
+  },
+  {
+    "source": "대한건설협회",
+    "category": "최신공지",
+    "title": "[2026-8-1] 2027년도 시공능력평가 교재 외 2종 제작 및 배송 입찰 재공고",
+    "date": "2026-11-26",
+    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=163117",
+    "tags": [
+      "건설",
+      "협회"
     ]
   },
   {
@@ -837,17 +914,6 @@
   },
   {
     "source": "국토교통부",
-    "category": "정책·제도",
-    "title": "모두의 성장으로 대전환을 위해 전 부처 역량 결집",
-    "date": "2026-11-18",
-    "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092617&src=text&kw=000004",
-    "tags": [
-      "건설",
-      "정책"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "AI·디지털",
     "title": "아·태 교통협력 넓힌다 … 한국의 인공지능 등 미래 교통기술 공유",
     "date": "2026-11-18",
@@ -1061,17 +1127,6 @@
     "title": "부동산투자회사 영업등록 공고(㈜하나하우징수유위탁관리부동산투자회사)",
     "date": "2026-11-13",
     "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270386&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "공공기관",
-    "title": "사천선인 공공주택지구 지구계획 변경(5차) 승인",
-    "date": "2026-11-13",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270384&mode=view&src=text&kw=000001",
     "tags": [
       "건설",
       "공공"
@@ -1981,43 +2036,10 @@
   },
   {
     "source": "국토교통부",
-    "category": "법령·고시",
-    "title": "도로구역 결정(변경) 및 지형도면 고시(고속국도 제104호 남해제2지선 13.1k)",
-    "date": "2026-10-19",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270082&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "법령·고시",
-    "title": "도로구역 결정(변경) 및 지형도면 고시(고속국도 제40호 평택제천선 14.3k)",
-    "date": "2026-10-19",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270081&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
     "category": "건설기술",
     "title": "건설신기술 지정 신청(2829)",
     "date": "2026-10-19",
     "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270078&mode=view&src=text&kw=000001",
-    "tags": [
-      "건설",
-      "공공"
-    ]
-  },
-  {
-    "source": "국토교통부",
-    "category": "법령·고시",
-    "title": "스마트물류센터 인증 취소 고시",
-    "date": "2026-10-19",
-    "url": "https://www.molit.go.kr/USR/BORD0201/m_69/BRD.jsp?idx=270103&mode=view&src=text&kw=000001",
     "tags": [
       "건설",
       "공공"
@@ -2175,28 +2197,6 @@
     "tags": [
       "건설",
       "정책"
-    ]
-  },
-  {
-    "source": "대한건축사협회",
-    "category": "AI·디지털",
-    "title": "[공지사항] 제1차『REVIT을 활용한 BIM교육과정』교육생 모집공고",
-    "date": "2026-10-06",
-    "url": "https://www.kira.or.kr/jsp/main/01/01.jsp?mode=read&ba_id=264838",
-    "tags": [
-      "건축",
-      "협회"
-    ]
-  },
-  {
-    "source": "대한건설협회",
-    "category": "최신공지",
-    "title": "전남개발공사 에너지자문위원회 외부위원 모집 안내",
-    "date": "2026-10-06",
-    "url": "https://www.cak.or.kr/lay1/bbs/S1T9C11/A/1/view.do?article_seq=161633",
-    "tags": [
-      "건설",
-      "협회"
     ]
   }
 ]
